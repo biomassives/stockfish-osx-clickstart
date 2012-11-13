@@ -1,0 +1,6168 @@
+{
+	"rootObject" = "29B97313FDCFA39411CA2CEA";
+	"classes" = {};
+	"objectVersion" = "46";
+	"objects" = {
+		"17D23FEC127D93AD0018E053" = {
+			"fileRef" = "17D23FE0127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFE211D392620074E5B7" = {
+			"name" = "XBoardWRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007611D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/psqtab.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "psqtab.h";
+			"fileEncoding" = "4";
+		};
+		"175103B11278AF4500A59D5B" = {
+			"name" = "USCFWRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFWRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FECC11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/pawns.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "pawns.cpp";
+			"fileEncoding" = "4";
+		};
+		"175103B51278AF4500A59D5B" = {
+			"fileRef" = "175103A91278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24010127DE6B10018E053" = {
+			"name" = "LeipzigBPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007B11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/square.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "square.h";
+			"fileEncoding" = "4";
+		};
+		"1751008C1273260E00A59D5B" = {
+			"fileRef" = "1751006C1273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"175103B91278AF4500A59D5B" = {
+			"fileRef" = "175103AD1278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FF0127D93AD0018E053" = {
+			"fileRef" = "17D23FE4127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796000911D392620074E5B7" = {
+			"fileRef" = "1796FFA811D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FCE127D93900018E053" = {
+			"fileRef" = "17D23FB6127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"288765FC0DF74451002DB57D" = {
+			"name" = "CoreGraphics.framework";
+			"sourceTree" = "SDKROOT";
+			"lastKnownFileType" = "wrapper.framework";
+			"path" = "System/Library/Frameworks/CoreGraphics.framework";
+			"isa" = "PBXFileReference";
+		};
+		"17D24018127DE6B10018E053" = {
+			"name" = "LeipzigWKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FED011D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/position.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "position.cpp";
+			"fileEncoding" = "4";
+		};
+		"175103BA1278AF4500A59D5B" = {
+			"fileRef" = "175103AE1278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796000A11D392620074E5B7" = {
+			"fileRef" = "1796FFA911D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"175100901273260E00A59D5B" = {
+			"fileRef" = "175100701273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796000E11D392620074E5B7" = {
+			"fileRef" = "1796FFAD11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"175100941273260E00A59D5B" = {
+			"fileRef" = "175100741273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2401D127DE6B10018E053" = {
+			"name" = "LeipzigWQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796008711D393A60074E5B7" = {
+			"fileRef" = "1796006D11D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"175100981273260E00A59D5B" = {
+			"fileRef" = "175100781273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796001211D392620074E5B7" = {
+			"fileRef" = "1796FFB111D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEDD11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/uci.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "uci.cpp";
+			"fileEncoding" = "4";
+		};
+		"17D24021127DE6B10018E053" = {
+			"fileRef" = "17D24009127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796001611D392620074E5B7" = {
+			"fileRef" = "1796FFB511D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24025127DE6B10018E053" = {
+			"fileRef" = "17D2400D127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24029127DE6B10018E053" = {
+			"fileRef" = "17D24011127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEE111D391AA0074E5B7" = {
+			"fileRef" = "1796FEAC11D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F28127CAB7D0018E053" = {
+			"name" = "ModernBBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernBBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796001B11D392620074E5B7" = {
+			"fileRef" = "1796FFBA11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEE511D391AA0074E5B7" = {
+			"fileRef" = "1796FEB711D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796008311D393A60074E5B7" = {
+			"fileRef" = "1796006411D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FED811D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/square.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "square.h";
+			"fileEncoding" = "4";
+		};
+		"1796001F11D392620074E5B7" = {
+			"fileRef" = "1796FFBE11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEE911D391AA0074E5B7" = {
+			"fileRef" = "1796FEC011D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2402E127DE6B10018E053" = {
+			"fileRef" = "17D24016127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F2D127CAB7D0018E053" = {
+			"name" = "ModernBRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernBRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796008C11D393A60074E5B7" = {
+			"fileRef" = "1796007A11D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEEA11D391AA0074E5B7" = {
+			"fileRef" = "1796FEC211D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F7A127D7FE00018E053" = {
+			"name" = "BerlinBPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796002311D392620074E5B7" = {
+			"fileRef" = "1796FFC211D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEEE11D391AA0074E5B7" = {
+			"fileRef" = "1796FECA11D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24032127DE6B10018E053" = {
+			"fileRef" = "17D2401A127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796002711D392620074E5B7" = {
+			"fileRef" = "1796FFC611D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F31127CAB7D0018E053" = {
+			"name" = "ModernWPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernWPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24036127DE6B10018E053" = {
+			"fileRef" = "17D2401E127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F35127CAB7D0018E053" = {
+			"fileRef" = "17D23F29127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEF211D391AA0074E5B7" = {
+			"fileRef" = "1796FED311D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F39127CAB7D0018E053" = {
+			"fileRef" = "17D23F2D127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F82127D7FE00018E053" = {
+			"name" = "BerlinWKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796002C11D392620074E5B7" = {
+			"fileRef" = "1796FFCB11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF1111D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "GameDetailsTableController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F3A127CAB7D0018E053" = {
+			"fileRef" = "17D23F2E127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF1511D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "GameParser.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F3E127CAB7D0018E053" = {
+			"fileRef" = "17D23F32127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF1911D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "GlaurungAppDelegate.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796003011D392620074E5B7" = {
+			"fileRef" = "1796FFCF11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1751000C1272E39500A59D5B" = {
+			"fileRef" = "1751000B1272E39500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F8B127D7FE00018E053" = {
+			"name" = "BerlinWRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796003411D392620074E5B7" = {
+			"fileRef" = "1796FFD311D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F8F127D7FE00018E053" = {
+			"fileRef" = "17D23F77127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796003811D392620074E5B7" = {
+			"fileRef" = "1796FFD711D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF1E11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "LevelViewController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D2402A127DE6B10018E053" = {
+			"fileRef" = "17D24012127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF0D11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "Game.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F93127D7FE00018E053" = {
+			"fileRef" = "17D23F7B127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796003D11D392620074E5B7" = {
+			"fileRef" = "1796FFDC11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F97127D7FE00018E053" = {
+			"fileRef" = "17D23F7F127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF0411D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "EditUserNameController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF2611D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Options.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FB1127D93900018E053" = {
+			"name" = "CheqBKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796004111D392620074E5B7" = {
+			"fileRef" = "1796FFE011D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796004B11D392F20074E5B7" = {
+			"lastKnownFileType" = "text.html";
+			"path" = "HTML/remote-engine-help.html";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "remote-engine-help.html";
+			"fileEncoding" = "4";
+		};
+		"17D23F02127C16410018E053" = {
+			"fileRef" = "17D23EF6127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F9C127D7FE00018E053" = {
+			"fileRef" = "17D23F84127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F06127C16410018E053" = {
+			"fileRef" = "17D23EFA127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF2B11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "PGN.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF2F11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "PieceImageView.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EBF127C0A940018E053" = {
+			"fileRef" = "17D23EBC127C0A940018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F7C127D7FE00018E053" = {
+			"name" = "BerlinBQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF8011D3924E0074E5B7" = {
+			"sourceTree" = "<group>";
+			"name" = "Images";
+			"children" = (
+				"1796FF8311D392620074E5B7",
+				"1796FF8411D392620074E5B7",
+				"1796FF8511D392620074E5B7",
+				"1796FF8611D392620074E5B7",
+				"1796FF8711D392620074E5B7",
+				"1796FF8811D392620074E5B7",
+				"1796FF8911D392620074E5B7",
+				"1796FF8A11D392620074E5B7",
+				"1796FF8B11D392620074E5B7",
+				"1796FF8C11D392620074E5B7",
+				"1796FF8D11D392620074E5B7",
+				"1796FF8E11D392620074E5B7",
+				"1796FF8F11D392620074E5B7",
+				"1796FF9011D392620074E5B7",
+				"1796FF9111D392620074E5B7",
+				"1796FF9211D392620074E5B7",
+				"1796FF9311D392620074E5B7",
+				"1796FF9411D392620074E5B7",
+				"1796FF9511D392620074E5B7",
+				"1796FF9611D392620074E5B7",
+				"1796FF9711D392620074E5B7",
+				"1796FF9811D392620074E5B7",
+				"1796FF9911D392620074E5B7",
+				"1796FF9A11D392620074E5B7",
+				"17D23F74127D7FE00018E053",
+				"17D23F75127D7FE00018E053",
+				"17D23F76127D7FE00018E053",
+				"17D23F77127D7FE00018E053",
+				"17D23F78127D7FE00018E053",
+				"17D23F79127D7FE00018E053",
+				"17D23F7A127D7FE00018E053",
+				"17D23F7B127D7FE00018E053",
+				"17D23F7C127D7FE00018E053",
+				"17D23F7D127D7FE00018E053",
+				"17D23F7E127D7FE00018E053",
+				"17D23F7F127D7FE00018E053",
+				"17D23F80127D7FE00018E053",
+				"17D23F81127D7FE00018E053",
+				"17D23F82127D7FE00018E053",
+				"17D23F83127D7FE00018E053",
+				"17D23F84127D7FE00018E053",
+				"17D23F85127D7FE00018E053",
+				"17D23F86127D7FE00018E053",
+				"17D23F87127D7FE00018E053",
+				"17D23F88127D7FE00018E053",
+				"17D23F89127D7FE00018E053",
+				"17D23F8A127D7FE00018E053",
+				"17D23F8B127D7FE00018E053",
+				"17D23FAE127D93900018E053",
+				"17D23FAF127D93900018E053",
+				"17D23FB0127D93900018E053",
+				"17D23FB1127D93900018E053",
+				"17D23FB2127D93900018E053",
+				"17D23FB3127D93900018E053",
+				"17D23FB4127D93900018E053",
+				"17D23FB5127D93900018E053",
+				"17D23FB6127D93900018E053",
+				"17D23FB7127D93900018E053",
+				"17D23FB8127D93900018E053",
+				"17D23FB9127D93900018E053",
+				"17D23FBA127D93900018E053",
+				"17D23FBB127D93900018E053",
+				"17D23FBC127D93900018E053",
+				"17D23FBD127D93900018E053",
+				"17D23FBE127D93900018E053",
+				"17D23FBF127D93900018E053",
+				"17D23FC0127D93900018E053",
+				"17D23FC1127D93900018E053",
+				"17D23FC2127D93900018E053",
+				"17D23FC3127D93900018E053",
+				"17D23FC4127D93900018E053",
+				"17D23FC5127D93900018E053",
+				"17D24009127DE6B10018E053",
+				"17D2400A127DE6B10018E053",
+				"17D2400B127DE6B10018E053",
+				"17D2400C127DE6B10018E053",
+				"17D2400D127DE6B10018E053",
+				"17D2400E127DE6B10018E053",
+				"17D2400F127DE6B10018E053",
+				"17D24010127DE6B10018E053",
+				"17D24011127DE6B10018E053",
+				"17D24012127DE6B10018E053",
+				"17D24013127DE6B10018E053",
+				"17D24014127DE6B10018E053",
+				"17D24015127DE6B10018E053",
+				"17D24016127DE6B10018E053",
+				"17D24017127DE6B10018E053",
+				"17D24018127DE6B10018E053",
+				"17D24019127DE6B10018E053",
+				"17D2401A127DE6B10018E053",
+				"17D2401B127DE6B10018E053",
+				"17D2401C127DE6B10018E053",
+				"17D2401D127DE6B10018E053",
+				"17D2401E127DE6B10018E053",
+				"17D2401F127DE6B10018E053",
+				"17D24020127DE6B10018E053",
+				"1796FFA811D392620074E5B7",
+				"1796FFA911D392620074E5B7",
+				"1796FFAA11D392620074E5B7",
+				"1796FFAB11D392620074E5B7",
+				"1796FFAC11D392620074E5B7",
+				"1796FFAD11D392620074E5B7",
+				"1796FFAE11D392620074E5B7",
+				"1796FFAF11D392620074E5B7",
+				"1796FFB011D392620074E5B7",
+				"1796FFB111D392620074E5B7",
+				"1796FFB211D392620074E5B7",
+				"1796FFB311D392620074E5B7",
+				"17D24060127DEB4B0018E053",
+				"17D24061127DEB4B0018E053",
+				"17D24062127DEB4B0018E053",
+				"17D24063127DEB4B0018E053",
+				"17D24064127DEB4B0018E053",
+				"17D24065127DEB4B0018E053",
+				"17D24066127DEB4B0018E053",
+				"17D24067127DEB4B0018E053",
+				"17D24068127DEB4B0018E053",
+				"17D24069127DEB4B0018E053",
+				"17D2406A127DEB4B0018E053",
+				"17D2406B127DEB4B0018E053",
+				"1796FFB411D392620074E5B7",
+				"1796FFB511D392620074E5B7",
+				"1796FFB611D392620074E5B7",
+				"1796FFB711D392620074E5B7",
+				"1796FFB811D392620074E5B7",
+				"1796FFB911D392620074E5B7",
+				"1796FFBA11D392620074E5B7",
+				"1796FFBB11D392620074E5B7",
+				"1796FFBC11D392620074E5B7",
+				"1796FFBD11D392620074E5B7",
+				"1796FFBE11D392620074E5B7",
+				"1796FFBF11D392620074E5B7",
+				"1796FFC011D392620074E5B7",
+				"1796FFC111D392620074E5B7",
+				"1796FFC211D392620074E5B7",
+				"1796FFC311D392620074E5B7",
+				"1796FFC411D392620074E5B7",
+				"1796FFC511D392620074E5B7",
+				"1796FFC611D392620074E5B7",
+				"1796FFC711D392620074E5B7",
+				"1796FFC811D392620074E5B7",
+				"1796FFC911D392620074E5B7",
+				"1796FFCA11D392620074E5B7",
+				"1796FFCB11D392620074E5B7",
+				"1796FFCC11D392620074E5B7",
+				"1796FFCD11D392620074E5B7",
+				"1796FFCE11D392620074E5B7",
+				"1796FFCF11D392620074E5B7",
+				"1796FFD011D392620074E5B7",
+				"1796FFD111D392620074E5B7",
+				"1796FFD211D392620074E5B7",
+				"1796FFD311D392620074E5B7",
+				"1796FFD411D392620074E5B7",
+				"1796FFD511D392620074E5B7",
+				"1796FFD611D392620074E5B7",
+				"1796FFD711D392620074E5B7",
+				"1796FFD811D392620074E5B7",
+				"1796FFD911D392620074E5B7",
+				"1796FFDA11D392620074E5B7",
+				"1796FFDB11D392620074E5B7",
+				"1796FFDC11D392620074E5B7",
+				"1796FFDD11D392620074E5B7",
+				"1796FFDE11D392620074E5B7",
+				"1796FFDF11D392620074E5B7",
+				"1796FFE011D392620074E5B7",
+				"1796FFE111D392620074E5B7",
+				"1796FFE211D392620074E5B7",
+				"1796FFE311D392620074E5B7",
+				"1796015E11D3B9360074E5B7",
+				"1796015F11D3B9360074E5B7",
+				"1796015A11D3B92B0074E5B7",
+				"1796015B11D3B92B0074E5B7",
+				"1796018411D3C4960074E5B7",
+				"1796018511D3C4960074E5B7",
+				"1796018611D3C4960074E5B7",
+				"1796018711D3C4960074E5B7",
+				"1760221E128491B9000DFCA6",
+				"1760221F128491B9000DFCA6",
+				"17602222128491C6000DFCA6",
+				"17602223128491C6000DFCA6"
+			);
+			"isa" = "PBXGroup";
+		};
+		"17D23FBE127D93900018E053" = {
+			"name" = "CheqWKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF3311D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "Queue.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F79127D7FE00018E053" = {
+			"name" = "BerlinBKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"28AD733E0D9D9553002E5188" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "file.xib";
+			"path" = "MainWindow.xib";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF3711D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "RemoteEngineHelpController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEA511D3916D0074E5B7" = {
+			"sourceTree" = "<group>";
+			"name" = "Engine";
+			"path" = "Classes";
+			"children" = (
+				"1796FEA811D391AA0074E5B7",
+				"1796FEA911D391AA0074E5B7",
+				"1796FEAA11D391AA0074E5B7",
+				"1796FEAB11D391AA0074E5B7",
+				"1796FEAC11D391AA0074E5B7",
+				"1796FEAD11D391AA0074E5B7",
+				"1796FEAE11D391AA0074E5B7",
+				"1796FEAF11D391AA0074E5B7",
+				"1796FEB011D391AA0074E5B7",
+				"1796FEB111D391AA0074E5B7",
+				"1796FEB211D391AA0074E5B7",
+				"1796FEB311D391AA0074E5B7",
+				"1796FEB411D391AA0074E5B7",
+				"1796FEB511D391AA0074E5B7",
+				"1796FEB611D391AA0074E5B7",
+				"1796FEB711D391AA0074E5B7",
+				"1796FEB811D391AA0074E5B7",
+				"1796FEB911D391AA0074E5B7",
+				"1796FEBA11D391AA0074E5B7",
+				"1796FEBB11D391AA0074E5B7",
+				"1796FEBC11D391AA0074E5B7",
+				"1796FEBD11D391AA0074E5B7",
+				"1796FEBE11D391AA0074E5B7",
+				"1796FEBF11D391AA0074E5B7",
+				"1796FEC011D391AA0074E5B7",
+				"1796FEC111D391AA0074E5B7",
+				"1796FEC211D391AA0074E5B7",
+				"1796FEC311D391AA0074E5B7",
+				"1796FEC411D391AA0074E5B7",
+				"1796FEC511D391AA0074E5B7",
+				"1796FEC611D391AA0074E5B7",
+				"1796FEC711D391AA0074E5B7",
+				"1796FEC811D391AA0074E5B7",
+				"1796FEC911D391AA0074E5B7",
+				"1796FECA11D391AA0074E5B7",
+				"1796FECB11D391AA0074E5B7",
+				"1796FECC11D391AA0074E5B7",
+				"1796FECD11D391AA0074E5B7",
+				"1796FECE11D391AA0074E5B7",
+				"1796FECF11D391AA0074E5B7",
+				"1796FED011D391AA0074E5B7",
+				"1796FED111D391AA0074E5B7",
+				"1796FED211D391AA0074E5B7",
+				"1796FED311D391AA0074E5B7",
+				"1796FED411D391AA0074E5B7",
+				"1796FED511D391AA0074E5B7",
+				"1796FED611D391AA0074E5B7",
+				"1796FED711D391AA0074E5B7",
+				"1796FED811D391AA0074E5B7",
+				"1796FED911D391AA0074E5B7",
+				"1796FEDA11D391AA0074E5B7",
+				"1796FEDB11D391AA0074E5B7",
+				"1796FEDC11D391AA0074E5B7",
+				"1796FEDD11D391AA0074E5B7",
+				"1796FEDE11D391AA0074E5B7",
+				"179600B911D395860074E5B7",
+				"179600BA11D395860074E5B7",
+				"179600BB11D395860074E5B7",
+				"179600BC11D395860074E5B7"
+			);
+			"isa" = "PBXGroup";
+		};
+		"17D23FC2127D93900018E053" = {
+			"name" = "CheqWQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24068127DEB4B0018E053" = {
+			"name" = "ModernWKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FC6127D93900018E053" = {
+			"fileRef" = "17D23FAE127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF3C11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "ResultTagViewController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FCB127D93900018E053" = {
+			"fileRef" = "17D23FB3127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F86127D7FE00018E053" = {
+			"name" = "BerlinWPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FCF127D93900018E053" = {
+			"fileRef" = "17D23FB7127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF4411D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "SelectedSquareView.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796015E11D3B9360074E5B7" = {
+			"name" = "DarkWood.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/DarkWood.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"50877D8840CA386632613934" = {
+			"name" = "QuartzCore.framework";
+			"sourceTree" = "SDKROOT";
+			"lastKnownFileType" = "wrapper.framework";
+			"path" = "System/Library/Frameworks/QuartzCore.framework";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF4811D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "SetupViewController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FD3127D93900018E053" = {
+			"fileRef" = "17D23FBB127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FD7127D93900018E053" = {
+			"fileRef" = "17D23FBF127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF4D11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "SimpleOptionTableController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"179600BC11D395860074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/value.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "value.h";
+			"fileEncoding" = "4";
+		};
+		"17D23FB9127D93900018E053" = {
+			"name" = "CheqBRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FDC127D93900018E053" = {
+			"fileRef" = "17D23FC4127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFD611D392620074E5B7" = {
+			"name" = "XBoardBRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF5111D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "TypeFileNameController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"179600D311D395E90074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "archive.macbinary";
+			"path" = "guibook.bin";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF5511D3921A0074E5B7" = {
+			"fileRef" = "1796FEFD11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FBA127D93900018E053" = {
+			"name" = "CheqWBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFA811D392620074E5B7" = {
+			"name" = "ModernBBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF5911D3921A0074E5B7" = {
+			"fileRef" = "1796FF0511D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"5087991F59A0386632613934" = {
+			"fileRef" = "50877D8840CA386632613934";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF5A11D3921A0074E5B7" = {
+			"fileRef" = "1796FF0711D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFAD11D392620074E5B7" = {
+			"name" = "ModernBRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF5E11D3921A0074E5B7" = {
+			"fileRef" = "1796FF0F11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFB111D392620074E5B7" = {
+			"name" = "ModernWPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6211D3921A0074E5B7" = {
+			"fileRef" = "1796FF1711D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFB511D392620074E5B7" = {
+			"name" = "USCFBBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6611D3921A0074E5B7" = {
+			"fileRef" = "1796FF1F11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFB911D392620074E5B7" = {
+			"name" = "USCFBKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFBA11D392620074E5B7" = {
+			"name" = "USCFBPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6B11D3921A0074E5B7" = {
+			"fileRef" = "1796FF2911D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFBE11D392620074E5B7" = {
+			"name" = "USCFBRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6F11D3921A0074E5B7" = {
+			"fileRef" = "1796FF3111D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"175100A01273260E00A59D5B" = {
+			"fileRef" = "175100801273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF4011D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "SaveFileListController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FB7127D93900018E053" = {
+			"name" = "CheqBQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"175100A41273260E00A59D5B" = {
+			"fileRef" = "175100841273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFC211D392620074E5B7" = {
+			"name" = "USCFWKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7311D3921A0074E5B7" = {
+			"fileRef" = "1796FF3911D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24015127DE6B10018E053" = {
+			"name" = "LeipzigWBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFC611D392620074E5B7" = {
+			"name" = "USCFWPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7711D3921A0074E5B7" = {
+			"fileRef" = "1796FF4111D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2406A127DEB4B0018E053" = {
+			"name" = "ModernWQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D2406E127DEB4B0018E053" = {
+			"fileRef" = "17D24062127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF7C11D3921A0074E5B7" = {
+			"fileRef" = "1796FF4B11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEF611D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "AboutController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17602221128491B9000DFCA6" = {
+			"fileRef" = "1760221F128491B9000DFCA6";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24072127DEB4B0018E053" = {
+			"fileRef" = "17D24066127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24076127DEB4B0018E053" = {
+			"fileRef" = "17D2406A127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEFF11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "ChessClock.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFDC11D392620074E5B7" = {
+			"name" = "XBoardWKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"080E96DDFE201D6D7F000001" = {
+			"sourceTree" = "<group>";
+			"path" = "Classes";
+			"children" = (
+				"1796FEF611D3921A0074E5B7",
+				"1796FEF711D3921A0074E5B7",
+				"1796FEF811D3921A0074E5B7",
+				"1796FEF911D3921A0074E5B7",
+				"1796FEFA11D3921A0074E5B7",
+				"1796FEFB11D3921A0074E5B7",
+				"1796FEFC11D3921A0074E5B7",
+				"1796FEFD11D3921A0074E5B7",
+				"1796FEFE11D3921A0074E5B7",
+				"1796FEFF11D3921A0074E5B7",
+				"1796FF0011D3921A0074E5B7",
+				"1796FF0111D3921A0074E5B7",
+				"1796FF0211D3921A0074E5B7",
+				"1796FF0311D3921A0074E5B7",
+				"1796FF0411D3921A0074E5B7",
+				"1796FF0511D3921A0074E5B7",
+				"1796FF0611D3921A0074E5B7",
+				"1796FF0711D3921A0074E5B7",
+				"1796FF0811D3921A0074E5B7",
+				"1796FF0911D3921A0074E5B7",
+				"1796FF0A11D3921A0074E5B7",
+				"1796FF0B11D3921A0074E5B7",
+				"1796FF0C11D3921A0074E5B7",
+				"1796FF0D11D3921A0074E5B7",
+				"1796FF0E11D3921A0074E5B7",
+				"1796FF0F11D3921A0074E5B7",
+				"1796FF1011D3921A0074E5B7",
+				"1796FF1111D3921A0074E5B7",
+				"1796FF1211D3921A0074E5B7",
+				"1796FF1311D3921A0074E5B7",
+				"1796FF1411D3921A0074E5B7",
+				"1796FF1511D3921A0074E5B7",
+				"1796FF1611D3921A0074E5B7",
+				"1796FF1711D3921A0074E5B7",
+				"1796FF1811D3921A0074E5B7",
+				"1796FF1911D3921A0074E5B7",
+				"1796FF1A11D3921A0074E5B7",
+				"1796FF1B11D3921A0074E5B7",
+				"1796FF1C11D3921A0074E5B7",
+				"1796FF1D11D3921A0074E5B7",
+				"1796FF1E11D3921A0074E5B7",
+				"1796FF1F11D3921A0074E5B7",
+				"1796FF2011D3921A0074E5B7",
+				"1796FF2111D3921A0074E5B7",
+				"1796FF2211D3921A0074E5B7",
+				"1796FF2311D3921A0074E5B7",
+				"1796FF2411D3921A0074E5B7",
+				"1796FF2511D3921A0074E5B7",
+				"1796FF2611D3921A0074E5B7",
+				"1796FF2711D3921A0074E5B7",
+				"1796FF2811D3921A0074E5B7",
+				"1796FF2911D3921A0074E5B7",
+				"1796FF2A11D3921A0074E5B7",
+				"1796FF2B11D3921A0074E5B7",
+				"1796FF2C11D3921A0074E5B7",
+				"1796FF2D11D3921A0074E5B7",
+				"1796FF2E11D3921A0074E5B7",
+				"1796FF2F11D3921A0074E5B7",
+				"1796FF3011D3921A0074E5B7",
+				"1796FF3111D3921A0074E5B7",
+				"1796FF3211D3921A0074E5B7",
+				"1796FF3311D3921A0074E5B7",
+				"1796FF3411D3921A0074E5B7",
+				"1796FF3511D3921A0074E5B7",
+				"1796FF3611D3921A0074E5B7",
+				"1796FF3711D3921A0074E5B7",
+				"1796FF3811D3921A0074E5B7",
+				"1796FF3911D3921A0074E5B7",
+				"1796FF3A11D3921A0074E5B7",
+				"1796FF3B11D3921A0074E5B7",
+				"1796FF3C11D3921A0074E5B7",
+				"1796FF3D11D3921A0074E5B7",
+				"1796FF3E11D3921A0074E5B7",
+				"1796FF3F11D3921A0074E5B7",
+				"1796FF4011D3921A0074E5B7",
+				"1796FF4111D3921A0074E5B7",
+				"1796FF4211D3921A0074E5B7",
+				"1796FF4311D3921A0074E5B7",
+				"1796FF4411D3921A0074E5B7",
+				"1796FF4511D3921A0074E5B7",
+				"1796FF4611D3921A0074E5B7",
+				"1796FF4711D3921A0074E5B7",
+				"1796FF4811D3921A0074E5B7",
+				"1796FF4911D3921A0074E5B7",
+				"1796FF4A11D3921A0074E5B7",
+				"1796FF4B11D3921A0074E5B7",
+				"1796FF4C11D3921A0074E5B7",
+				"1796FF4D11D3921A0074E5B7",
+				"1796FF4E11D3921A0074E5B7",
+				"1796FF4F11D3921A0074E5B7",
+				"1796FF5011D3921A0074E5B7",
+				"1796FF5111D3921A0074E5B7"
+			);
+			"isa" = "PBXGroup";
+		};
+		"17602223128491C6000DFCA6" = {
+			"name" = "LightGreenMarble@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LightGreenMarble@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFE011D392620074E5B7" = {
+			"name" = "XBoardWQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D2403E127DE6CA0018E053" = {
+			"name" = "LeipzigBRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigBRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFE411D392620074E5B7" = {
+			"fileRef" = "1796FF8311D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEE611D391AA0074E5B7" = {
+			"fileRef" = "1796FEB911D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1DF5F4DF0D08C38300B7A737" = {
+			"name" = "UIKit.framework";
+			"sourceTree" = "SDKROOT";
+			"lastKnownFileType" = "wrapper.framework";
+			"path" = "System/Library/Frameworks/UIKit.framework";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFE811D392620074E5B7" = {
+			"fileRef" = "1796FF8711D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF0111D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "ChessMove.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F2A127CAB7D0018E053" = {
+			"name" = "ModernBKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernBKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796018711D3C4960074E5B7" = {
+			"name" = "LightMarble@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LightMarble@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D2402F127DE6B10018E053" = {
+			"fileRef" = "17D24017127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFED11D392620074E5B7" = {
+			"fileRef" = "1796FF8C11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FA3127D7FE00018E053" = {
+			"fileRef" = "17D23F8B127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23EF4127C16410018E053" = {
+			"name" = "XBoardBKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardBKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFF111D392620074E5B7" = {
+			"fileRef" = "1796FF9011D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F7F127D7FE00018E053" = {
+			"name" = "BerlinBRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EF8127C16410018E053" = {
+			"name" = "XBoardBRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardBRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFF511D392620074E5B7" = {
+			"fileRef" = "1796FF9411D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24037127DE6B10018E053" = {
+			"fileRef" = "17D2401F127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFF911D392620074E5B7" = {
+			"fileRef" = "1796FF9811D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1760221412848F9C000DFCA6" = {
+			"name" = "LightGreenMarble96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LightGreenMarble96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EFD127C16410018E053" = {
+			"name" = "XBoardWQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardWQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFFA11D392620074E5B7" = {
+			"fileRef" = "1796FF9911D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2403B127DE6CA0018E053" = {
+			"name" = "LeipzigBKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigBKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF1211D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "GameListController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D2403F127DE6CA0018E053" = {
+			"name" = "LeipzigWBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigWBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"32CA4F630368D1EE00C91783" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Stockfish_Prefix.pch";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"179601B711D3CDA00074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.png";
+			"path" = "Icon@2x.png";
+			"isa" = "PBXFileReference";
+		};
+		"17D24043127DE6CA0018E053" = {
+			"name" = "LeipzigWQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigWQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24047127DE6CA0018E053" = {
+			"fileRef" = "17D2403B127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F54127D7B1C0018E053" = {
+			"name" = "BerlinBPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinBPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24065127DEB4B0018E053" = {
+			"name" = "ModernBRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F58127D7B1C0018E053" = {
+			"name" = "BerlinWKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinWKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796015B11D3B92B0074E5B7" = {
+			"name" = "LightWood@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LightWood@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D2404C127DE6CA0018E053" = {
+			"fileRef" = "17D24040127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F5D127D7B1C0018E053" = {
+			"fileRef" = "17D23F51127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"29B97314FDCFA39411CA2CEA" = {
+			"sourceTree" = "<group>";
+			"name" = "CustomTemplate";
+			"children" = (
+				"1796005911D3938F0074E5B7",
+				"080E96DDFE201D6D7F000001",
+				"1796FEA511D3916D0074E5B7",
+				"29B97315FDCFA39411CA2CEA",
+				"29B97317FDCFA39411CA2CEA",
+				"1751000A1272E39500A59D5B",
+				"29B97323FDCFA39411CA2CEA",
+				"19C28FACFE9D520D11CA2CBB",
+				"5087F3EC023B386632613934"
+			);
+			"isa" = "PBXGroup";
+		};
+		"17D23FAE127D93900018E053" = {
+			"name" = "CheqBBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24050127DE6CA0018E053" = {
+			"fileRef" = "17D24044127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFCB11D392620074E5B7" = {
+			"name" = "USCFWRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F61127D7B1C0018E053" = {
+			"fileRef" = "17D23F55127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F65127D7B1C0018E053" = {
+			"fileRef" = "17D23F59127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEA811D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/application.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "application.cpp";
+			"fileEncoding" = "4";
+		};
+		"175100681273260E00A59D5B" = {
+			"name" = "AlphaBBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaBBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF8611D392620074E5B7" = {
+			"name" = "AlphaBKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"175100701273260E00A59D5B" = {
+			"name" = "AlphaBQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaBQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FE4127D93AD0018E053" = {
+			"name" = "CheqWBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqWBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEAD11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/bitbase.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "bitbase.h";
+			"fileEncoding" = "4";
+		};
+		"179600E111D397240074E5B7" = {
+			"fileRef" = "179600DF11D397240074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"C01FCF4F08A954540054247B" = {
+			"buildSettings" = {
+				"GCC_C_LANGUAGE_STANDARD" = "c99";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				"GCC_WARN_UNUSED_VARIABLE" = "YES";
+				"GCC_WARN_ABOUT_RETURN_TYPE" = "YES";
+				"ONLY_ACTIVE_ARCH" = "YES";
+				"SDKROOT" = "iphoneos";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Mark Prichard";
+				"ARCHS" = "$(ARCHS_STANDARD_32_BIT)";
+			};
+			"name" = "Debug";
+			"isa" = "XCBuildConfiguration";
+		};
+		"1796005C11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "Chess/bitbase.mm";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "bitbase.mm";
+			"fileEncoding" = "4";
+		};
+		"1796FF8B11D392620074E5B7" = {
+			"name" = "AlphaBQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"179600DE11D397240074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.png";
+			"path" = "Icon-big.png";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF8F11D392620074E5B7" = {
+			"name" = "AlphaWBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"50877D8740CA386632613934" = {
+			"name" = "OpenGLES.framework";
+			"sourceTree" = "SDKROOT";
+			"lastKnownFileType" = "wrapper.framework";
+			"path" = "System/Library/Frameworks/OpenGLES.framework";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEB111D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/book.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "book.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796006011D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/book.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "book.h";
+			"fileEncoding" = "4";
+		};
+		"1796FEB511D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/direction.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "direction.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796006411D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/direction.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "direction.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FEB911D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/evaluate.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "evaluate.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FF9311D392620074E5B7" = {
+			"name" = "AlphaWKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796004E11D393270074E5B7" = {
+			"name" = "AudioToolbox.framework";
+			"sourceTree" = "SDKROOT";
+			"lastKnownFileType" = "wrapper.framework";
+			"path" = "System/Library/Frameworks/AudioToolbox.framework";
+			"isa" = "PBXFileReference";
+		};
+		"1796006811D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/mersenne.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "mersenne.h";
+			"fileEncoding" = "4";
+		};
+		"1796FF9711D392620074E5B7" = {
+			"name" = "AlphaWQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEBA11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/evaluate.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "evaluate.h";
+			"fileEncoding" = "4";
+		};
+		"1751007A1273260E00A59D5B" = {
+			"name" = "AlphaWPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaWPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"175103A71278AF4500A59D5B" = {
+			"name" = "USCFBKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFBKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796006D11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/movegen.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "movegen.cpp";
+			"fileEncoding" = "4";
+		};
+		"1751007E1273260E00A59D5B" = {
+			"name" = "AlphaWRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaWRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FE6127D93AD0018E053" = {
+			"name" = "CheqWKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqWKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1D60588F0D05DD3D006BFB54" = {
+			"buildActionMask" = "2147483647";
+			"files" = (
+				"1D60589F0D05DD5A006BFB54",
+				"1DF5F4E00D08C38300B7A737",
+				"288765FD0DF74451002DB57D",
+				"1796004F11D393270074E5B7",
+				"5087991C59A0386632613934",
+				"5087991D59A0386632613934",
+				"5087991E59A0386632613934",
+				"5087991F59A0386632613934",
+				"5087992059A0386632613934",
+				"5087F3ED023B386632613934"
+			);
+			"runOnlyForDeploymentPostprocessing" = "0";
+			"isa" = "PBXFrameworksBuildPhase";
+		};
+		"1796FEC211D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/mersenne.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "mersenne.cpp";
+			"fileEncoding" = "4";
+		};
+		"175103AC1278AF4500A59D5B" = {
+			"name" = "USCFWBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFWBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007111D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/phase.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "phase.h";
+			"fileEncoding" = "4";
+		};
+		"175100821273260E00A59D5B" = {
+			"name" = "DarkWood96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/DarkWood96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FEB127D93AD0018E053" = {
+			"fileRef" = "17D23FDF127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFD011D392620074E5B7" = {
+			"name" = "XBoardBKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007511D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/position.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "position.h";
+			"fileEncoding" = "4";
+		};
+		"175100861273260E00A59D5B" = {
+			"name" = "LightWood96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LightWood96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FEF127D93AD0018E053" = {
+			"fileRef" = "17D23FE3127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2400F127DE6B10018E053" = {
+			"name" = "LeipzigBPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007911D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/scale.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "scale.h";
+			"fileEncoding" = "4";
+		};
+		"175103B01278AF4500A59D5B" = {
+			"name" = "USCFWQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFWQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FECB11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/movepick.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "movepick.h";
+			"fileEncoding" = "4";
+		};
+		"175103B41278AF4500A59D5B" = {
+			"fileRef" = "175103A81278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796007A11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/square.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "square.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FECF11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/piece.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "piece.h";
+			"fileEncoding" = "4";
+		};
+		"17D23FF3127D93AD0018E053" = {
+			"fileRef" = "17D23FE7127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24013127DE6B10018E053" = {
+			"name" = "LeipzigBRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007E11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/value.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "value.h";
+			"fileEncoding" = "4";
+		};
+		"17D24017127DE6B10018E053" = {
+			"name" = "LeipzigWKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FF2127D93AD0018E053" = {
+			"fileRef" = "17D23FE6127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FED311D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/san.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "san.cpp";
+			"fileEncoding" = "4";
+		};
+		"175103BD1278AF4500A59D5B" = {
+			"fileRef" = "175103B11278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796000D11D392620074E5B7" = {
+			"fileRef" = "1796FFAC11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FED711D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/search.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "search.h";
+			"fileEncoding" = "4";
+		};
+		"17D2401C127DE6B10018E053" = {
+			"name" = "LeipzigWPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796008611D393A60074E5B7" = {
+			"fileRef" = "1796006B11D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FD0127D93900018E053" = {
+			"fileRef" = "17D23FB8127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796001111D392620074E5B7" = {
+			"fileRef" = "1796FFB011D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEDC11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/types.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "types.h";
+			"fileEncoding" = "4";
+		};
+		"17D24020127DE6B10018E053" = {
+			"name" = "LeipzigWRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796001511D392620074E5B7" = {
+			"fileRef" = "1796FFB411D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1751009C1273260E00A59D5B" = {
+			"fileRef" = "1751007C1273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FD8127D93900018E053" = {
+			"fileRef" = "17D23FC0127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24024127DE6B10018E053" = {
+			"fileRef" = "17D2400C127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796001911D392620074E5B7" = {
+			"fileRef" = "1796FFB811D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24028127DE6B10018E053" = {
+			"fileRef" = "17D24010127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEE011D391AA0074E5B7" = {
+			"fileRef" = "1796FEAA11D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796001A11D392620074E5B7" = {
+			"fileRef" = "1796FFB911D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEE411D391AA0074E5B7" = {
+			"fileRef" = "1796FEB511D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F74127D7FE00018E053" = {
+			"name" = "BerlinBBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796001E11D392620074E5B7" = {
+			"fileRef" = "1796FFBD11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEE811D391AA0074E5B7" = {
+			"fileRef" = "1796FEBE11D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF0311D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "DateTagViewController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F2C127CAB7D0018E053" = {
+			"name" = "ModernBQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernBQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF0711D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "EmailAddressController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796002211D392620074E5B7" = {
+			"fileRef" = "1796FFC111D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEED11D391AA0074E5B7" = {
+			"fileRef" = "1796FEC811D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24031127DE6B10018E053" = {
+			"fileRef" = "17D24019127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796002611D392620074E5B7" = {
+			"fileRef" = "1796FFC511D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F30127CAB7D0018E053" = {
+			"name" = "ModernWKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernWKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF0C11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Game.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F34127CAB7D0018E053" = {
+			"fileRef" = "17D23F28127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEF111D391AA0074E5B7" = {
+			"fileRef" = "1796FED011D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F38127CAB7D0018E053" = {
+			"fileRef" = "17D23F2C127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F81127D7FE00018E053" = {
+			"name" = "BerlinWBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796002B11D392620074E5B7" = {
+			"fileRef" = "1796FFCA11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEF511D391AA0074E5B7" = {
+			"fileRef" = "1796FEDD11D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF1011D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "GameDetailsTableController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796002F11D392620074E5B7" = {
+			"fileRef" = "1796FFCE11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1760221312848F8C000DFCA6" = {
+			"fileRef" = "1760221212848F8C000DFCA6";
+			"isa" = "PBXBuildFile";
+		};
+		"1D6058960D05DD3E006BFB54" = {
+			"defaultConfigurationName" = "Release";
+			"buildConfigurations" = (
+				"1D6058940D05DD3E006BFB54",
+				"1D6058950D05DD3E006BFB54"
+			);
+			"defaultConfigurationIsVisible" = "0";
+			"isa" = "XCConfigurationList";
+		};
+		"1796FF1411D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "GameParser.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F3D127CAB7D0018E053" = {
+			"fileRef" = "17D23F31127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF1811D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "GlaurungAppDelegate.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1751000B1272E39500A59D5B" = {
+			"name" = "MainWindow-iPad.xib";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "file.xib";
+			"path" = "Resources-iPad/MainWindow-iPad.xib";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F8A127D7FE00018E053" = {
+			"name" = "BerlinWRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796003311D392620074E5B7" = {
+			"fileRef" = "1796FFD211D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F8E127D7FE00018E053" = {
+			"fileRef" = "17D23F76127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796003711D392620074E5B7" = {
+			"fileRef" = "1796FFD611D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEFB11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "BoardViewController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF1D11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "LastMoveView.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F92127D7FE00018E053" = {
+			"fileRef" = "17D23F7A127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796003C11D392620074E5B7" = {
+			"fileRef" = "1796FFDB11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF0F11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "GameController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF2511D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "OpeningBook.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF2911D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "OptionsViewController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796004011D392620074E5B7" = {
+			"fileRef" = "1796FFDF11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796004A11D392F20074E5B7" = {
+			"lastKnownFileType" = "text.html";
+			"path" = "HTML/about.html";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "about.html";
+			"fileEncoding" = "4";
+		};
+		"17D23F01127C16410018E053" = {
+			"fileRef" = "17D23EF5127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F9B127D7FE00018E053" = {
+			"fileRef" = "17D23F83127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796004411D392620074E5B7" = {
+			"fileRef" = "1796FFE311D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F05127C16410018E053" = {
+			"fileRef" = "17D23EF9127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F9F127D7FE00018E053" = {
+			"fileRef" = "17D23F87127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F09127C16410018E053" = {
+			"fileRef" = "17D23EFD127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF2E11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "PieceImageView.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EBE127C0A940018E053" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.png";
+			"path" = "Icon-Small.png";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F0A127C16410018E053" = {
+			"fileRef" = "17D23EFE127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FBD127D93900018E053" = {
+			"name" = "CheqWKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF3211D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Queue.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF3611D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "RemoteEngineHelpController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7011D3921A0074E5B7" = {
+			"fileRef" = "1796FF3311D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FC1127D93900018E053" = {
+			"name" = "CheqWPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FC5127D93900018E053" = {
+			"name" = "CheqWRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF3B11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "RemoteEngineTextFieldController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF3F11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "RootView.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FCA127D93900018E053" = {
+			"fileRef" = "17D23FB2127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF2011D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "LoadFileListController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F76127D7FE00018E053" = {
+			"name" = "BerlinBKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF4311D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "SelectedPieceView.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF4711D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "SetupBoardView.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FD2127D93900018E053" = {
+			"fileRef" = "17D23FBA127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FD6127D93900018E053" = {
+			"fileRef" = "17D23FBE127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796016111D3B9360074E5B7" = {
+			"fileRef" = "1796015F11D3B9360074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF4C11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "SimpleOptionTableController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"179600BB11D395860074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/value.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "value.cpp";
+			"fileEncoding" = "4";
+		};
+		"17D23FDB127D93900018E053" = {
+			"fileRef" = "17D23FC3127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF5011D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "TypeFileNameController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF5411D3921A0074E5B7" = {
+			"fileRef" = "1796FEFB11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF5811D3921A0074E5B7" = {
+			"fileRef" = "1796FF0311D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEBE11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "Engine/iphone.mm";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "iphone.mm";
+			"fileEncoding" = "4";
+		};
+		"5087991E59A0386632613934" = {
+			"fileRef" = "50877D8740CA386632613934";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFAC11D392620074E5B7" = {
+			"name" = "ModernBQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF5D11D3921A0074E5B7" = {
+			"fileRef" = "1796FF0D11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFB011D392620074E5B7" = {
+			"name" = "ModernWKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6111D3921A0074E5B7" = {
+			"fileRef" = "1796FF1511D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFB411D392620074E5B7" = {
+			"name" = "USCFBBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6511D3921A0074E5B7" = {
+			"fileRef" = "1796FF1D11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEC611D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/move.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "move.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FFB811D392620074E5B7" = {
+			"name" = "USCFBKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF3A11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "RemoteEngineTextFieldController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6A11D3921A0074E5B7" = {
+			"fileRef" = "1796FF2711D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFD311D392620074E5B7" = {
+			"name" = "XBoardBPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFBD11D392620074E5B7" = {
+			"name" = "USCFBQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6E11D3921A0074E5B7" = {
+			"fileRef" = "1796FF2F11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24060127DEB4B0018E053" = {
+			"name" = "ModernBBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFC111D392620074E5B7" = {
+			"name" = "USCFWBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7211D3921A0074E5B7" = {
+			"fileRef" = "1796FF3711D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFC511D392620074E5B7" = {
+			"name" = "USCFWKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7611D3921A0074E5B7" = {
+			"fileRef" = "1796FF3F11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFC911D392620074E5B7" = {
+			"name" = "USCFWQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFCA11D392620074E5B7" = {
+			"name" = "USCFWRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7B11D3921A0074E5B7" = {
+			"fileRef" = "1796FF4911D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796008211D393A60074E5B7" = {
+			"fileRef" = "1796006111D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFCE11D392620074E5B7" = {
+			"name" = "XBoardBKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7F11D3921A0074E5B7" = {
+			"fileRef" = "1796FF5111D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEF911D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "BoardView.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF4B11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "SideToMoveController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D24071127DEB4B0018E053" = {
+			"fileRef" = "17D24065127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEFA11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "BoardViewController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEFE11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "ChessClock.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796008B11D393A60074E5B7" = {
+			"fileRef" = "1796007711D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFDB11D392620074E5B7" = {
+			"name" = "XBoardWKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"5087F3EB023B386632613934" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "TouchTestDriver.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "TouchTestDriver.h";
+			"fileEncoding" = "4";
+		};
+		"1796FFDF11D392620074E5B7" = {
+			"name" = "XBoardWPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17602222128491C6000DFCA6" = {
+			"name" = "LightGreenMarble.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LightGreenMarble.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFE311D392620074E5B7" = {
+			"name" = "XBoardWRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFE711D392620074E5B7" = {
+			"fileRef" = "1796FF8611D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F78127D7FE00018E053" = {
+			"name" = "BerlinBKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796018611D3C4960074E5B7" = {
+			"name" = "LightMarble.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LightMarble.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EF2127C162B0018E053" = {
+			"fileRef" = "17D23EF1127C162B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFEC11D392620074E5B7" = {
+			"fileRef" = "1796FF8B11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796018B11D3C4960074E5B7" = {
+			"fileRef" = "1796018711D3C4960074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FA2127D7FE00018E053" = {
+			"fileRef" = "17D23F8A127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23EF3127C16410018E053" = {
+			"name" = "XBoardBBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardBBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFF011D392620074E5B7" = {
+			"fileRef" = "1796FF8F11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23EF7127C16410018E053" = {
+			"name" = "XBoardBQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardBQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFF411D392620074E5B7" = {
+			"fileRef" = "1796FF9311D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF2311D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "MoveListView.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFF811D392620074E5B7" = {
+			"fileRef" = "1796FF9711D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23EFC127C16410018E053" = {
+			"name" = "XBoardWPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardWPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24039127DE6CA0018E053" = {
+			"name" = "LeipzigBBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigBBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D2403A127DE6CA0018E053" = {
+			"name" = "LeipzigBKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigBKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F89127D7FE00018E053" = {
+			"name" = "BerlinWQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24042127DE6CA0018E053" = {
+			"name" = "LeipzigWPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigWPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24046127DE6CA0018E053" = {
+			"fileRef" = "17D2403A127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F53127D7B1C0018E053" = {
+			"name" = "BerlinBKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinBKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F57127D7B1C0018E053" = {
+			"name" = "BerlinWBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinWBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24067127DEB4B0018E053" = {
+			"name" = "ModernWKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796015A11D3B92B0074E5B7" = {
+			"name" = "LightWood.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LightWood.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D2404B127DE6CA0018E053" = {
+			"fileRef" = "17D2403F127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2404F127DE6CA0018E053" = {
+			"fileRef" = "17D24043127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F5C127D7B1C0018E053" = {
+			"name" = "BerlinWRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinWRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"29B97313FDCFA39411CA2CEA" = {
+			"isa" = "PBXProject";
+			"targets" = (
+				"1D6058900D05DD3D006BFB54"
+			);
+			"projectDirPath" = "";
+			"buildConfigurationList" = "C01FCF4E08A954540054247B";
+			"attributes" = {
+				"LastUpgradeCheck" = "0420";
+			};
+			"compatibilityVersion" = "Xcode 3.2";
+			"mainGroup" = "29B97314FDCFA39411CA2CEA";
+			"projectRoot" = "";
+			"knownRegions" = (
+				"en"
+			);
+			"hasScannedForEncodings" = "1";
+			"developmentRegion" = "English";
+		};
+		"1751006A1273260E00A59D5B" = {
+			"name" = "AlphaBKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaBKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"29B97317FDCFA39411CA2CEA" = {
+			"sourceTree" = "<group>";
+			"name" = "Resources";
+			"children" = (
+				"1796004911D392E90074E5B7",
+				"1796FF8011D3924E0074E5B7",
+				"17510064127325D800A59D5B",
+				"1796004511D392740074E5B7",
+				"28AD733E0D9D9553002E5188",
+				"8D1107310486CEB800E47090",
+				"179600DE11D397240074E5B7",
+				"179600DF11D397240074E5B7",
+				"179601B711D3CDA00074E5B7",
+				"17D23EBC127C0A940018E053",
+				"17D23EBD127C0A940018E053",
+				"17D23EBE127C0A940018E053",
+				"17D23EF1127C162B0018E053",
+				"179600D311D395E90074E5B7"
+			);
+			"isa" = "PBXGroup";
+		};
+		"17D23F60127D7B1C0018E053" = {
+			"fileRef" = "17D23F54127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"C01FCF4E08A954540054247B" = {
+			"defaultConfigurationName" = "Release";
+			"buildConfigurations" = (
+				"C01FCF4F08A954540054247B",
+				"C01FCF5008A954540054247B"
+			);
+			"defaultConfigurationIsVisible" = "0";
+			"isa" = "XCConfigurationList";
+		};
+		"17D23F64127D7B1C0018E053" = {
+			"fileRef" = "17D23F58127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F68127D7B1C0018E053" = {
+			"fileRef" = "17D23F5C127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FB0127D93900018E053" = {
+			"name" = "CheqBKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF8511D392620074E5B7" = {
+			"name" = "AlphaBKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF8911D392620074E5B7" = {
+			"name" = "AlphaBPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEAC11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/bitbase.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "bitbase.cpp";
+			"fileEncoding" = "4";
+		};
+		"175100721273260E00A59D5B" = {
+			"name" = "AlphaBRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaBRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796005B11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/bitbase.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "bitbase.h";
+			"fileEncoding" = "4";
+		};
+		"1751006C1273260E00A59D5B" = {
+			"name" = "AlphaBKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaBKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF8A11D392620074E5B7" = {
+			"name" = "AlphaBPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796005F11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/book.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "book.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FF8E11D392620074E5B7" = {
+			"name" = "AlphaBRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFD511D392620074E5B7" = {
+			"name" = "XBoardBQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEB011D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/bitcount.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "bitcount.h";
+			"fileEncoding" = "4";
+		};
+		"50877D8940CA386632613934" = {
+			"name" = "libz.dylib";
+			"sourceTree" = "SDKROOT";
+			"lastKnownFileType" = "compiled.mach-o.dylib";
+			"path" = "usr/lib/libz.dylib";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEB411D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/depth.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "depth.h";
+			"fileEncoding" = "4";
+		};
+		"175103A91278AF4500A59D5B" = {
+			"name" = "USCFBPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFBPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796006311D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/depth.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "depth.h";
+			"fileEncoding" = "4";
+		};
+		"1796FEB811D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/endgame.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "endgame.h";
+			"fileEncoding" = "4";
+		};
+		"1796FF9211D392620074E5B7" = {
+			"name" = "AlphaWKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796006711D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/mersenne.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "mersenne.cpp";
+			"fileEncoding" = "4";
+		};
+		"175100781273260E00A59D5B" = {
+			"name" = "AlphaWKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaWKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF9611D392620074E5B7" = {
+			"name" = "AlphaWPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FE3127D93AD0018E053" = {
+			"name" = "CheqBRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqBRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEBD11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/iphone.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "iphone.h";
+			"fileEncoding" = "4";
+		};
+		"175103A61278AF4500A59D5B" = {
+			"name" = "USCFBBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFBBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796006C11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/move.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "move.h";
+			"fileEncoding" = "4";
+		};
+		"17D23FE5127D93AD0018E053" = {
+			"name" = "CheqWKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqWKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEC411D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/misc.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "misc.cpp";
+			"fileEncoding" = "4";
+		};
+		"17D24009127DE6B10018E053" = {
+			"name" = "LeipzigBBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEC111D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/material.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "material.h";
+			"fileEncoding" = "4";
+		};
+		"175103AB1278AF4500A59D5B" = {
+			"name" = "USCFBRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFBRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007011D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/movepick.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "movepick.h";
+			"fileEncoding" = "4";
+		};
+		"1796FEC511D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/misc.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "misc.h";
+			"fileEncoding" = "4";
+		};
+		"1796FEC811D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/movegen.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "movegen.cpp";
+			"fileEncoding" = "4";
+		};
+		"17D2400A127DE6B10018E053" = {
+			"name" = "LeipzigBBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007411D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/position.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "position.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FEC911D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/movegen.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "movegen.h";
+			"fileEncoding" = "4";
+		};
+		"17D23FEE127D93AD0018E053" = {
+			"fileRef" = "17D23FE2127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2400E127DE6B10018E053" = {
+			"name" = "LeipzigBKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007811D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/san.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "san.h";
+			"fileEncoding" = "4";
+		};
+		"1796FECA11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/movepick.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "movepick.cpp";
+			"fileEncoding" = "4";
+		};
+		"175103B31278AF4500A59D5B" = {
+			"fileRef" = "175103A71278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1751008A1273260E00A59D5B" = {
+			"fileRef" = "1751006A1273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"175103B71278AF4500A59D5B" = {
+			"fileRef" = "175103AB1278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24012127DE6B10018E053" = {
+			"name" = "LeipzigBQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007D11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/value.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "value.cpp";
+			"fileEncoding" = "4";
+		};
+		"1751008E1273260E00A59D5B" = {
+			"fileRef" = "1751006E1273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24016127DE6B10018E053" = {
+			"name" = "LeipzigWBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FF4127D93AD0018E053" = {
+			"fileRef" = "17D23FE8127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24014127DE6B10018E053" = {
+			"name" = "LeipzigBRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FED211D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/psqtab.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "psqtab.h";
+			"fileEncoding" = "4";
+		};
+		"175103BC1278AF4500A59D5B" = {
+			"fileRef" = "175103B01278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796007F11D393A60074E5B7" = {
+			"fileRef" = "1796005C11D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796000C11D392620074E5B7" = {
+			"fileRef" = "1796FFAB11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"175100921273260E00A59D5B" = {
+			"fileRef" = "175100721273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2401B127DE6B10018E053" = {
+			"name" = "LeipzigWPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796008511D393A60074E5B7" = {
+			"fileRef" = "1796006911D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"175100961273260E00A59D5B" = {
+			"fileRef" = "175100761273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796008911D393A60074E5B7" = {
+			"fileRef" = "1796007211D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796001011D392620074E5B7" = {
+			"fileRef" = "1796FFAF11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEDB11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/tt.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "tt.h";
+			"fileEncoding" = "4";
+		};
+		"1796001411D392620074E5B7" = {
+			"fileRef" = "1796FFB311D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEDF11D391AA0074E5B7" = {
+			"fileRef" = "1796FEA811D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23EF6127C16410018E053" = {
+			"name" = "XBoardBPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardBPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24023127DE6B10018E053" = {
+			"fileRef" = "17D2400B127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796001811D392620074E5B7" = {
+			"fileRef" = "1796FFB711D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24027127DE6B10018E053" = {
+			"fileRef" = "17D2400F127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796000B11D392620074E5B7" = {
+			"fileRef" = "1796FFAA11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEE311D391AA0074E5B7" = {
+			"fileRef" = "1796FEB111D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796001D11D392620074E5B7" = {
+			"fileRef" = "1796FFBC11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEA111D391570074E5B7" = {
+			"fileRef" = "1796FEA011D391570074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2402C127DE6B10018E053" = {
+			"fileRef" = "17D24014127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FED411D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/san.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "san.h";
+			"fileEncoding" = "4";
+		};
+		"1796FF0611D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "EmailAddressController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F2F127CAB7D0018E053" = {
+			"name" = "ModernWKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernWKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796002111D392620074E5B7" = {
+			"fileRef" = "1796FFC011D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEEC11D391AA0074E5B7" = {
+			"fileRef" = "1796FEC611D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24030127DE6B10018E053" = {
+			"fileRef" = "17D24018127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796002511D392620074E5B7" = {
+			"fileRef" = "1796FFC411D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24034127DE6B10018E053" = {
+			"fileRef" = "17D2401C127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796002911D392620074E5B7" = {
+			"fileRef" = "1796FFC811D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F33127CAB7D0018E053" = {
+			"name" = "ModernWRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernWRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24038127DE6B10018E053" = {
+			"fileRef" = "17D24020127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEF011D391AA0074E5B7" = {
+			"fileRef" = "1796FECE11D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F37127CAB7D0018E053" = {
+			"fileRef" = "17D23F2B127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F80127D7FE00018E053" = {
+			"name" = "BerlinWBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796002A11D392620074E5B7" = {
+			"fileRef" = "1796FFC911D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEF411D391AA0074E5B7" = {
+			"fileRef" = "1796FEDA11D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF0011D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "ChessMove.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F84127D7FE00018E053" = {
+			"name" = "BerlinWKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796002E11D392620074E5B7" = {
+			"fileRef" = "1796FFCD11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1760221212848F8C000DFCA6" = {
+			"name" = "DarkGreenMarble96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/DarkGreenMarble96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1D6058950D05DD3E006BFB54" = {
+			"buildSettings" = {
+				"GCC_PREFIX_HEADER" = "Stockfish_Prefix.pch";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				"GCC_PREPROCESSOR_DEFINITIONS" = (
+					"TOUCHTESTDRIVER"
+				);
+				"COPY_PHASE_STRIP" = "YES";
+				"GCC_THUMB_SUPPORT" = "NO";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "6.0";
+				"CODE_SIGN_ENTITLEMENTS" = "";
+				"GCC_ENABLE_CPP_RTTI" = "NO";
+				"LIBRARY_SEARCH_PATHS" = (
+					"$(inherited)",
+					"\"$(SRCROOT)/TouchTestDriver\""
+				);
+				"TARGETED_DEVICE_FAMILY" = "1,2";
+				"OTHER_LDFLAGS" = (
+					"-force_load",
+					"TouchTestDriver/libTouchTestDriver.a"
+				);
+				"ALWAYS_SEARCH_USER_PATHS" = "NO";
+				"GCC_PRECOMPILE_PREFIX_HEADER" = "YES";
+				"GCC_ENABLE_CPP_EXCEPTIONS" = "NO";
+				"VALIDATE_PRODUCT" = "NO";
+				"GCC_OPTIMIZATION_LEVEL" = "3";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"OTHER_CFLAGS" = (
+					"-DNDEBUG",
+					"-DNS_BLOCK_ASSERTIONS=1"
+				);
+				"INFOPLIST_FILE" = "Stockfish-Info.plist";
+				"PRODUCT_NAME" = "Stockfish";
+				"SDKROOT" = "iphoneos";
+				"ARCHS" = "$(ARCHS_STANDARD_32_BIT)";
+				"OTHER_CPLUSPLUSFLAGS" = (
+					"-DNDEBUG",
+					"$(OTHER_CFLAGS)"
+				);
+			};
+			"name" = "Release";
+			"isa" = "XCBuildConfiguration";
+		};
+		"1796FF1311D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "GameListController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F3C127CAB7D0018E053" = {
+			"fileRef" = "17D23F30127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF1711D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "GamePreview.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1751000A1272E39500A59D5B" = {
+			"sourceTree" = "<group>";
+			"name" = "Resources-iPad";
+			"children" = (
+				"1751000B1272E39500A59D5B"
+			);
+			"isa" = "PBXGroup";
+		};
+		"1796FF0811D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "EngineController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796003211D392620074E5B7" = {
+			"fileRef" = "1796FFD111D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F8D127D7FE00018E053" = {
+			"fileRef" = "17D23F75127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796003611D392620074E5B7" = {
+			"fileRef" = "1796FFD511D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF1C11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "LastMoveView.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F7E127D7FE00018E053" = {
+			"name" = "BerlinBRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F91127D7FE00018E053" = {
+			"fileRef" = "17D23F79127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796003B11D392620074E5B7" = {
+			"fileRef" = "1796FFDA11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F95127D7FE00018E053" = {
+			"fileRef" = "17D23F7D127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796003F11D392620074E5B7" = {
+			"fileRef" = "1796FFDE11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F99127D7FE00018E053" = {
+			"fileRef" = "17D23F81127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF2811D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "OptionsViewController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F00127C16410018E053" = {
+			"fileRef" = "17D23EF4127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F9A127D7FE00018E053" = {
+			"fileRef" = "17D23F82127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796004311D392620074E5B7" = {
+			"fileRef" = "1796FFE211D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796004D11D392F20074E5B7" = {
+			"fileRef" = "1796004B11D392F20074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F04127C16410018E053" = {
+			"fileRef" = "17D23EF8127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F9E127D7FE00018E053" = {
+			"fileRef" = "17D23F86127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F08127C16410018E053" = {
+			"fileRef" = "17D23EFC127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF2D11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "PGNTextFieldController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EBD127C0A940018E053" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.png";
+			"path" = "Icon-Small-50.png";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F75127D7FE00018E053" = {
+			"name" = "BerlinBBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FBC127D93900018E053" = {
+			"name" = "CheqWKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF3111D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "PlayStyleViewController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EC1127C0A940018E053" = {
+			"fileRef" = "17D23EBE127C0A940018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF3511D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "RemoteEngineController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF1A11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "HighlightedSquaresView.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF3911D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "RemoteEngineTableController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FC4127D93900018E053" = {
+			"name" = "CheqWRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"8D1107310486CEB800E47090" = {
+			"plistStructureDefinitionIdentifier" = "com.apple.xcode.plist.structure-definition.iphone.info-plist";
+			"lastKnownFileType" = "text.plist.xml";
+			"path" = "Stockfish-Info.plist";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"fileEncoding" = "4";
+		};
+		"17D23FC8127D93900018E053" = {
+			"fileRef" = "17D23FB0127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF3E11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "RootView.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FDE127D93AD0018E053" = {
+			"name" = "CheqBBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqBBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FCD127D93900018E053" = {
+			"fileRef" = "17D23FB5127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF2211D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "MoveListView.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF4211D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "SelectedPieceView.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F87127D7FE00018E053" = {
+			"name" = "BerlinWPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17510064127325D800A59D5B" = {
+			"sourceTree" = "<group>";
+			"name" = "Images-iPad";
+			"children" = (
+				"175100681273260E00A59D5B",
+				"1751006A1273260E00A59D5B",
+				"1751006C1273260E00A59D5B",
+				"1751006E1273260E00A59D5B",
+				"175100701273260E00A59D5B",
+				"175100721273260E00A59D5B",
+				"175100741273260E00A59D5B",
+				"175100761273260E00A59D5B",
+				"175100781273260E00A59D5B",
+				"1751007A1273260E00A59D5B",
+				"1751007C1273260E00A59D5B",
+				"1751007E1273260E00A59D5B",
+				"17D23F51127D7B1C0018E053",
+				"17D23F52127D7B1C0018E053",
+				"17D23F53127D7B1C0018E053",
+				"17D23F54127D7B1C0018E053",
+				"17D23F55127D7B1C0018E053",
+				"17D23F56127D7B1C0018E053",
+				"17D23F57127D7B1C0018E053",
+				"17D23F58127D7B1C0018E053",
+				"17D23F59127D7B1C0018E053",
+				"17D23F5A127D7B1C0018E053",
+				"17D23F5B127D7B1C0018E053",
+				"17D23F5C127D7B1C0018E053",
+				"17D23FDE127D93AD0018E053",
+				"17D23FDF127D93AD0018E053",
+				"17D23FE0127D93AD0018E053",
+				"17D23FE1127D93AD0018E053",
+				"17D23FE2127D93AD0018E053",
+				"17D23FE3127D93AD0018E053",
+				"17D23FE4127D93AD0018E053",
+				"17D23FE5127D93AD0018E053",
+				"17D23FE6127D93AD0018E053",
+				"17D23FE7127D93AD0018E053",
+				"17D23FE8127D93AD0018E053",
+				"17D23FE9127D93AD0018E053",
+				"1760221212848F8C000DFCA6",
+				"175100801273260E00A59D5B",
+				"175100821273260E00A59D5B",
+				"17D24039127DE6CA0018E053",
+				"17D2403A127DE6CA0018E053",
+				"17D2403B127DE6CA0018E053",
+				"17D2403C127DE6CA0018E053",
+				"17D2403D127DE6CA0018E053",
+				"17D2403E127DE6CA0018E053",
+				"17D2403F127DE6CA0018E053",
+				"17D24040127DE6CA0018E053",
+				"17D24041127DE6CA0018E053",
+				"17D24042127DE6CA0018E053",
+				"17D24043127DE6CA0018E053",
+				"17D24044127DE6CA0018E053",
+				"1760221412848F9C000DFCA6",
+				"175100841273260E00A59D5B",
+				"175100861273260E00A59D5B",
+				"17D23F28127CAB7D0018E053",
+				"17D23F29127CAB7D0018E053",
+				"17D23F2A127CAB7D0018E053",
+				"17D23F2B127CAB7D0018E053",
+				"17D23F2C127CAB7D0018E053",
+				"17D23F2D127CAB7D0018E053",
+				"17D23F2E127CAB7D0018E053",
+				"17D23F2F127CAB7D0018E053",
+				"17D23F30127CAB7D0018E053",
+				"17D23F31127CAB7D0018E053",
+				"17D23F32127CAB7D0018E053",
+				"17D23F33127CAB7D0018E053",
+				"175103A61278AF4500A59D5B",
+				"175103A71278AF4500A59D5B",
+				"175103A81278AF4500A59D5B",
+				"175103A91278AF4500A59D5B",
+				"175103AA1278AF4500A59D5B",
+				"175103AB1278AF4500A59D5B",
+				"175103AC1278AF4500A59D5B",
+				"175103AD1278AF4500A59D5B",
+				"175103AE1278AF4500A59D5B",
+				"175103AF1278AF4500A59D5B",
+				"175103B01278AF4500A59D5B",
+				"175103B11278AF4500A59D5B",
+				"17D23EF3127C16410018E053",
+				"17D23EF4127C16410018E053",
+				"17D23EF5127C16410018E053",
+				"17D23EF6127C16410018E053",
+				"17D23EF7127C16410018E053",
+				"17D23EF8127C16410018E053",
+				"17D23EF9127C16410018E053",
+				"17D23EFA127C16410018E053",
+				"17D23EFB127C16410018E053",
+				"17D23EFC127C16410018E053",
+				"17D23EFD127C16410018E053",
+				"17D23EFE127C16410018E053"
+			);
+			"isa" = "PBXGroup";
+		};
+		"1796FF4611D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "SetupBoardView.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FD1127D93900018E053" = {
+			"fileRef" = "17D23FB9127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"179600B911D395860074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/ucioption.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "ucioption.cpp";
+			"fileEncoding" = "4";
+		};
+		"17D23FD5127D93900018E053" = {
+			"fileRef" = "17D23FBD127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796016011D3B9360074E5B7" = {
+			"fileRef" = "1796015E11D3B9360074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FD9127D93900018E053" = {
+			"fileRef" = "17D23FC1127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FB5127D93900018E053" = {
+			"name" = "CheqBPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"179600BA11D395860074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/ucioption.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "ucioption.h";
+			"fileEncoding" = "4";
+		};
+		"179600E011D397240074E5B7" = {
+			"fileRef" = "179600DE11D397240074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF4F11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "StrengthOptionController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"179600BE11D395860074E5B7" = {
+			"fileRef" = "179600BB11D395860074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24075127DEB4B0018E053" = {
+			"fileRef" = "17D24069127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FDA127D93900018E053" = {
+			"fileRef" = "17D23FC2127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"50877D8640CA386632613934" = {
+			"name" = "CoreLocation.framework";
+			"sourceTree" = "SDKROOT";
+			"lastKnownFileType" = "wrapper.framework";
+			"path" = "System/Library/Frameworks/CoreLocation.framework";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF5311D3921A0074E5B7" = {
+			"fileRef" = "1796FEF911D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF5711D3921A0074E5B7" = {
+			"fileRef" = "1796FF0111D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"5087991D59A0386632613934" = {
+			"fileRef" = "50877D8640CA386632613934";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFAB11D392620074E5B7" = {
+			"name" = "ModernBPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF5C11D3921A0074E5B7" = {
+			"fileRef" = "1796FF0B11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F90127D7FE00018E053" = {
+			"fileRef" = "17D23F78127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFAF11D392620074E5B7" = {
+			"name" = "ModernWKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796004811D392AD0074E5B7" = {
+			"fileRef" = "1796004711D392AD0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1D60588E0D05DD3D006BFB54" = {
+			"buildActionMask" = "2147483647";
+			"files" = (
+				"1796FEA111D391570074E5B7",
+				"1796FEDF11D391AA0074E5B7",
+				"1796FEE011D391AA0074E5B7",
+				"1796FEE111D391AA0074E5B7",
+				"1796FEE211D391AA0074E5B7",
+				"1796FEE311D391AA0074E5B7",
+				"1796FEE411D391AA0074E5B7",
+				"1796FEE511D391AA0074E5B7",
+				"1796FEE611D391AA0074E5B7",
+				"1796FEE711D391AA0074E5B7",
+				"1796FEE811D391AA0074E5B7",
+				"1796FEE911D391AA0074E5B7",
+				"1796FEEA11D391AA0074E5B7",
+				"1796FEEB11D391AA0074E5B7",
+				"1796FEEC11D391AA0074E5B7",
+				"1796FEED11D391AA0074E5B7",
+				"1796FEEE11D391AA0074E5B7",
+				"1796FEEF11D391AA0074E5B7",
+				"1796FEF011D391AA0074E5B7",
+				"1796FEF111D391AA0074E5B7",
+				"1796FEF211D391AA0074E5B7",
+				"1796FEF311D391AA0074E5B7",
+				"1796FEF411D391AA0074E5B7",
+				"1796FEF511D391AA0074E5B7",
+				"1796FF5211D3921A0074E5B7",
+				"1796FF5311D3921A0074E5B7",
+				"1796FF5411D3921A0074E5B7",
+				"1796FF5511D3921A0074E5B7",
+				"1796FF5611D3921A0074E5B7",
+				"1796FF5711D3921A0074E5B7",
+				"1796FF5811D3921A0074E5B7",
+				"1796FF5911D3921A0074E5B7",
+				"1796FF5A11D3921A0074E5B7",
+				"1796FF5B11D3921A0074E5B7",
+				"1796FF5C11D3921A0074E5B7",
+				"1796FF5D11D3921A0074E5B7",
+				"1796FF5E11D3921A0074E5B7",
+				"1796FF5F11D3921A0074E5B7",
+				"1796FF6011D3921A0074E5B7",
+				"1796FF6111D3921A0074E5B7",
+				"1796FF6211D3921A0074E5B7",
+				"1796FF6311D3921A0074E5B7",
+				"1796FF6411D3921A0074E5B7",
+				"1796FF6511D3921A0074E5B7",
+				"1796FF6611D3921A0074E5B7",
+				"1796FF6711D3921A0074E5B7",
+				"1796FF6811D3921A0074E5B7",
+				"1796FF6911D3921A0074E5B7",
+				"1796FF6A11D3921A0074E5B7",
+				"1796FF6B11D3921A0074E5B7",
+				"1796FF6C11D3921A0074E5B7",
+				"1796FF6D11D3921A0074E5B7",
+				"1796FF6E11D3921A0074E5B7",
+				"1796FF6F11D3921A0074E5B7",
+				"1796FF7011D3921A0074E5B7",
+				"1796FF7111D3921A0074E5B7",
+				"1796FF7211D3921A0074E5B7",
+				"1796FF7311D3921A0074E5B7",
+				"1796FF7411D3921A0074E5B7",
+				"1796FF7511D3921A0074E5B7",
+				"1796FF7611D3921A0074E5B7",
+				"1796FF7711D3921A0074E5B7",
+				"1796FF7811D3921A0074E5B7",
+				"1796FF7911D3921A0074E5B7",
+				"1796FF7A11D3921A0074E5B7",
+				"1796FF7B11D3921A0074E5B7",
+				"1796FF7C11D3921A0074E5B7",
+				"1796FF7D11D3921A0074E5B7",
+				"1796FF7E11D3921A0074E5B7",
+				"1796FF7F11D3921A0074E5B7",
+				"1796007F11D393A60074E5B7",
+				"1796008011D393A60074E5B7",
+				"1796008111D393A60074E5B7",
+				"1796008211D393A60074E5B7",
+				"1796008311D393A60074E5B7",
+				"1796008411D393A60074E5B7",
+				"1796008511D393A60074E5B7",
+				"1796008611D393A60074E5B7",
+				"1796008711D393A60074E5B7",
+				"1796008811D393A60074E5B7",
+				"1796008911D393A60074E5B7",
+				"1796008A11D393A60074E5B7",
+				"1796008B11D393A60074E5B7",
+				"1796008C11D393A60074E5B7",
+				"1796008D11D393A60074E5B7",
+				"179600BD11D395860074E5B7",
+				"179600BE11D395860074E5B7"
+			);
+			"runOnlyForDeploymentPostprocessing" = "0";
+			"isa" = "PBXSourcesBuildPhase";
+		};
+		"1796FF2111D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "LoadFileListController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6011D3921A0074E5B7" = {
+			"fileRef" = "1796FF1311D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFB311D392620074E5B7" = {
+			"name" = "ModernWRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6411D3921A0074E5B7" = {
+			"fileRef" = "1796FF1B11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1D60589F0D05DD5A006BFB54" = {
+			"fileRef" = "1D30AB110D05D00D00671497";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFB711D392620074E5B7" = {
+			"name" = "USCFBKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6811D3921A0074E5B7" = {
+			"fileRef" = "1796FF2311D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFD111D392620074E5B7" = {
+			"name" = "XBoardBKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFBC11D392620074E5B7" = {
+			"name" = "USCFBQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6D11D3921A0074E5B7" = {
+			"fileRef" = "1796FF2D11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FB4127D93900018E053" = {
+			"name" = "CheqBPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FF1127D93AD0018E053" = {
+			"fileRef" = "17D23FE5127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FB6127D93900018E053" = {
+			"name" = "CheqBQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"175100A21273260E00A59D5B" = {
+			"fileRef" = "175100821273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFC011D392620074E5B7" = {
+			"name" = "USCFWBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7111D3921A0074E5B7" = {
+			"fileRef" = "1796FF3511D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"175100A61273260E00A59D5B" = {
+			"fileRef" = "175100861273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFC411D392620074E5B7" = {
+			"name" = "USCFWKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7511D3921A0074E5B7" = {
+			"fileRef" = "1796FF3D11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFC811D392620074E5B7" = {
+			"name" = "USCFWQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7911D3921A0074E5B7" = {
+			"fileRef" = "1796FF4511D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2406C127DEB4B0018E053" = {
+			"fileRef" = "17D24060127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF7A11D3921A0074E5B7" = {
+			"fileRef" = "1796FF4711D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFCD11D392620074E5B7" = {
+			"name" = "XBoardBBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7E11D3921A0074E5B7" = {
+			"fileRef" = "1796FF4F11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796000F11D392620074E5B7" = {
+			"fileRef" = "1796FFAE11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24070127DEB4B0018E053" = {
+			"fileRef" = "17D24064127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FBF127D93900018E053" = {
+			"name" = "CheqWKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24074127DEB4B0018E053" = {
+			"fileRef" = "17D24068127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F77127D7FE00018E053" = {
+			"name" = "BerlinBKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEFD11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "CastleRightsController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFD911D392620074E5B7" = {
+			"name" = "XBoardWBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1751009A1273260E00A59D5B" = {
+			"fileRef" = "1751007A1273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796001711D392620074E5B7" = {
+			"fileRef" = "1796FFB611D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFDE11D392620074E5B7" = {
+			"name" = "XBoardWPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1D60588D0D05DD3D006BFB54" = {
+			"buildActionMask" = "2147483647";
+			"files" = (
+				"28AD733F0D9D9553002E5188",
+				"1796FFE411D392620074E5B7",
+				"1796FFE511D392620074E5B7",
+				"1796FFE611D392620074E5B7",
+				"1796FFE711D392620074E5B7",
+				"1796FFE811D392620074E5B7",
+				"1796FFE911D392620074E5B7",
+				"1796FFEA11D392620074E5B7",
+				"1796FFEB11D392620074E5B7",
+				"1796FFEC11D392620074E5B7",
+				"1796FFED11D392620074E5B7",
+				"1796FFEE11D392620074E5B7",
+				"1796FFEF11D392620074E5B7",
+				"1796FFF011D392620074E5B7",
+				"1796FFF111D392620074E5B7",
+				"1796FFF211D392620074E5B7",
+				"1796FFF311D392620074E5B7",
+				"1796FFF411D392620074E5B7",
+				"1796FFF511D392620074E5B7",
+				"1796FFF611D392620074E5B7",
+				"1796FFF711D392620074E5B7",
+				"1796FFF811D392620074E5B7",
+				"1796FFF911D392620074E5B7",
+				"1796FFFA11D392620074E5B7",
+				"1796FFFB11D392620074E5B7",
+				"1796000911D392620074E5B7",
+				"1796000A11D392620074E5B7",
+				"1796000B11D392620074E5B7",
+				"1796000C11D392620074E5B7",
+				"1796000D11D392620074E5B7",
+				"1796000E11D392620074E5B7",
+				"1796000F11D392620074E5B7",
+				"1796001011D392620074E5B7",
+				"1796001111D392620074E5B7",
+				"1796001211D392620074E5B7",
+				"1796001311D392620074E5B7",
+				"1796001411D392620074E5B7",
+				"1796001511D392620074E5B7",
+				"1796001611D392620074E5B7",
+				"1796001711D392620074E5B7",
+				"1796001811D392620074E5B7",
+				"1796001911D392620074E5B7",
+				"1796001A11D392620074E5B7",
+				"1796001B11D392620074E5B7",
+				"1796001C11D392620074E5B7",
+				"1796001D11D392620074E5B7",
+				"1796001E11D392620074E5B7",
+				"1796001F11D392620074E5B7",
+				"1796002011D392620074E5B7",
+				"1796002111D392620074E5B7",
+				"1796002211D392620074E5B7",
+				"1796002311D392620074E5B7",
+				"1796002411D392620074E5B7",
+				"1796002511D392620074E5B7",
+				"1796002611D392620074E5B7",
+				"1796002711D392620074E5B7",
+				"1796002811D392620074E5B7",
+				"1796002911D392620074E5B7",
+				"1796002A11D392620074E5B7",
+				"1796002B11D392620074E5B7",
+				"1796002C11D392620074E5B7",
+				"1796002D11D392620074E5B7",
+				"1796002E11D392620074E5B7",
+				"1796002F11D392620074E5B7",
+				"1796003011D392620074E5B7",
+				"1796003111D392620074E5B7",
+				"1796003211D392620074E5B7",
+				"1796003311D392620074E5B7",
+				"1796003411D392620074E5B7",
+				"1796003511D392620074E5B7",
+				"1796003611D392620074E5B7",
+				"1796003711D392620074E5B7",
+				"1796003811D392620074E5B7",
+				"1796003911D392620074E5B7",
+				"1796003A11D392620074E5B7",
+				"1796003B11D392620074E5B7",
+				"1796003C11D392620074E5B7",
+				"1796003D11D392620074E5B7",
+				"1796003E11D392620074E5B7",
+				"1796003F11D392620074E5B7",
+				"1796004011D392620074E5B7",
+				"1796004111D392620074E5B7",
+				"1796004211D392620074E5B7",
+				"1796004311D392620074E5B7",
+				"1796004411D392620074E5B7",
+				"1796004811D392AD0074E5B7",
+				"1796004C11D392F20074E5B7",
+				"1796004D11D392F20074E5B7",
+				"179600D411D395E90074E5B7",
+				"179600E011D397240074E5B7",
+				"179600E111D397240074E5B7",
+				"1796015C11D3B92B0074E5B7",
+				"1796015D11D3B92B0074E5B7",
+				"1796016011D3B9360074E5B7",
+				"1796016111D3B9360074E5B7",
+				"1796018811D3C4960074E5B7",
+				"1796018911D3C4960074E5B7",
+				"1796018A11D3C4960074E5B7",
+				"1796018B11D3C4960074E5B7",
+				"179601B811D3CDA00074E5B7",
+				"1751000C1272E39500A59D5B",
+				"175100881273260E00A59D5B",
+				"1751008A1273260E00A59D5B",
+				"1751008C1273260E00A59D5B",
+				"1751008E1273260E00A59D5B",
+				"175100901273260E00A59D5B",
+				"175100921273260E00A59D5B",
+				"175100941273260E00A59D5B",
+				"175100961273260E00A59D5B",
+				"175100981273260E00A59D5B",
+				"1751009A1273260E00A59D5B",
+				"1751009C1273260E00A59D5B",
+				"1751009E1273260E00A59D5B",
+				"175100A01273260E00A59D5B",
+				"175100A21273260E00A59D5B",
+				"175100A41273260E00A59D5B",
+				"175100A61273260E00A59D5B",
+				"175103B21278AF4500A59D5B",
+				"175103B31278AF4500A59D5B",
+				"175103B41278AF4500A59D5B",
+				"175103B51278AF4500A59D5B",
+				"175103B61278AF4500A59D5B",
+				"175103B71278AF4500A59D5B",
+				"175103B81278AF4500A59D5B",
+				"175103B91278AF4500A59D5B",
+				"175103BA1278AF4500A59D5B",
+				"175103BB1278AF4500A59D5B",
+				"175103BC1278AF4500A59D5B",
+				"175103BD1278AF4500A59D5B",
+				"17D23EBF127C0A940018E053",
+				"17D23EC0127C0A940018E053",
+				"17D23EC1127C0A940018E053",
+				"17D23EF2127C162B0018E053",
+				"17D23EFF127C16410018E053",
+				"17D23F00127C16410018E053",
+				"17D23F01127C16410018E053",
+				"17D23F02127C16410018E053",
+				"17D23F03127C16410018E053",
+				"17D23F04127C16410018E053",
+				"17D23F05127C16410018E053",
+				"17D23F06127C16410018E053",
+				"17D23F07127C16410018E053",
+				"17D23F08127C16410018E053",
+				"17D23F09127C16410018E053",
+				"17D23F0A127C16410018E053",
+				"17D23F34127CAB7D0018E053",
+				"17D23F35127CAB7D0018E053",
+				"17D23F36127CAB7D0018E053",
+				"17D23F37127CAB7D0018E053",
+				"17D23F38127CAB7D0018E053",
+				"17D23F39127CAB7D0018E053",
+				"17D23F3A127CAB7D0018E053",
+				"17D23F3B127CAB7D0018E053",
+				"17D23F3C127CAB7D0018E053",
+				"17D23F3D127CAB7D0018E053",
+				"17D23F3E127CAB7D0018E053",
+				"17D23F3F127CAB7D0018E053",
+				"17D23F5D127D7B1C0018E053",
+				"17D23F5E127D7B1C0018E053",
+				"17D23F5F127D7B1C0018E053",
+				"17D23F60127D7B1C0018E053",
+				"17D23F61127D7B1C0018E053",
+				"17D23F62127D7B1C0018E053",
+				"17D23F63127D7B1C0018E053",
+				"17D23F64127D7B1C0018E053",
+				"17D23F65127D7B1C0018E053",
+				"17D23F66127D7B1C0018E053",
+				"17D23F67127D7B1C0018E053",
+				"17D23F68127D7B1C0018E053",
+				"17D23F8C127D7FE00018E053",
+				"17D23F8D127D7FE00018E053",
+				"17D23F8E127D7FE00018E053",
+				"17D23F8F127D7FE00018E053",
+				"17D23F90127D7FE00018E053",
+				"17D23F91127D7FE00018E053",
+				"17D23F92127D7FE00018E053",
+				"17D23F93127D7FE00018E053",
+				"17D23F94127D7FE00018E053",
+				"17D23F95127D7FE00018E053",
+				"17D23F96127D7FE00018E053",
+				"17D23F97127D7FE00018E053",
+				"17D23F98127D7FE00018E053",
+				"17D23F99127D7FE00018E053",
+				"17D23F9A127D7FE00018E053",
+				"17D23F9B127D7FE00018E053",
+				"17D23F9C127D7FE00018E053",
+				"17D23F9D127D7FE00018E053",
+				"17D23F9E127D7FE00018E053",
+				"17D23F9F127D7FE00018E053",
+				"17D23FA0127D7FE00018E053",
+				"17D23FA1127D7FE00018E053",
+				"17D23FA2127D7FE00018E053",
+				"17D23FA3127D7FE00018E053",
+				"17D23FC6127D93900018E053",
+				"17D23FC7127D93900018E053",
+				"17D23FC8127D93900018E053",
+				"17D23FC9127D93900018E053",
+				"17D23FCA127D93900018E053",
+				"17D23FCB127D93900018E053",
+				"17D23FCC127D93900018E053",
+				"17D23FCD127D93900018E053",
+				"17D23FCE127D93900018E053",
+				"17D23FCF127D93900018E053",
+				"17D23FD0127D93900018E053",
+				"17D23FD1127D93900018E053",
+				"17D23FD2127D93900018E053",
+				"17D23FD3127D93900018E053",
+				"17D23FD4127D93900018E053",
+				"17D23FD5127D93900018E053",
+				"17D23FD6127D93900018E053",
+				"17D23FD7127D93900018E053",
+				"17D23FD8127D93900018E053",
+				"17D23FD9127D93900018E053",
+				"17D23FDA127D93900018E053",
+				"17D23FDB127D93900018E053",
+				"17D23FDC127D93900018E053",
+				"17D23FDD127D93900018E053",
+				"17D23FEA127D93AD0018E053",
+				"17D23FEB127D93AD0018E053",
+				"17D23FEC127D93AD0018E053",
+				"17D23FED127D93AD0018E053",
+				"17D23FEE127D93AD0018E053",
+				"17D23FEF127D93AD0018E053",
+				"17D23FF0127D93AD0018E053",
+				"17D23FF1127D93AD0018E053",
+				"17D23FF2127D93AD0018E053",
+				"17D23FF3127D93AD0018E053",
+				"17D23FF4127D93AD0018E053",
+				"17D23FF5127D93AD0018E053",
+				"17D24021127DE6B10018E053",
+				"17D24022127DE6B10018E053",
+				"17D24023127DE6B10018E053",
+				"17D24024127DE6B10018E053",
+				"17D24025127DE6B10018E053",
+				"17D24026127DE6B10018E053",
+				"17D24027127DE6B10018E053",
+				"17D24028127DE6B10018E053",
+				"17D24029127DE6B10018E053",
+				"17D2402A127DE6B10018E053",
+				"17D2402B127DE6B10018E053",
+				"17D2402C127DE6B10018E053",
+				"17D2402D127DE6B10018E053",
+				"17D2402E127DE6B10018E053",
+				"17D2402F127DE6B10018E053",
+				"17D24030127DE6B10018E053",
+				"17D24031127DE6B10018E053",
+				"17D24032127DE6B10018E053",
+				"17D24033127DE6B10018E053",
+				"17D24034127DE6B10018E053",
+				"17D24035127DE6B10018E053",
+				"17D24036127DE6B10018E053",
+				"17D24037127DE6B10018E053",
+				"17D24038127DE6B10018E053",
+				"17D24045127DE6CA0018E053",
+				"17D24046127DE6CA0018E053",
+				"17D24047127DE6CA0018E053",
+				"17D24048127DE6CA0018E053",
+				"17D24049127DE6CA0018E053",
+				"17D2404A127DE6CA0018E053",
+				"17D2404B127DE6CA0018E053",
+				"17D2404C127DE6CA0018E053",
+				"17D2404D127DE6CA0018E053",
+				"17D2404E127DE6CA0018E053",
+				"17D2404F127DE6CA0018E053",
+				"17D24050127DE6CA0018E053",
+				"17D2406C127DEB4B0018E053",
+				"17D2406D127DEB4B0018E053",
+				"17D2406E127DEB4B0018E053",
+				"17D2406F127DEB4B0018E053",
+				"17D24070127DEB4B0018E053",
+				"17D24071127DEB4B0018E053",
+				"17D24072127DEB4B0018E053",
+				"17D24073127DEB4B0018E053",
+				"17D24074127DEB4B0018E053",
+				"17D24075127DEB4B0018E053",
+				"17D24076127DEB4B0018E053",
+				"17D24077127DEB4B0018E053",
+				"1760221312848F8C000DFCA6",
+				"1760221512848F9C000DFCA6",
+				"17602220128491B9000DFCA6",
+				"17602221128491B9000DFCA6",
+				"17602224128491C6000DFCA6",
+				"17602225128491C6000DFCA6"
+			);
+			"runOnlyForDeploymentPostprocessing" = "0";
+			"isa" = "PBXResourcesBuildPhase";
+		};
+		"17602225128491C6000DFCA6" = {
+			"fileRef" = "17602223128491C6000DFCA6";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FC9127D93900018E053" = {
+			"fileRef" = "17D23FB1127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1D6058910D05DD3D006BFB54" = {
+			"sourceTree" = "BUILT_PRODUCTS_DIR";
+			"explicitFileType" = "wrapper.application";
+			"includeInIndex" = "0";
+			"path" = "Stockfish.app";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFE611D392620074E5B7" = {
+			"fileRef" = "1796FF8511D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796018511D3C4960074E5B7" = {
+			"name" = "DarkMarble@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/DarkMarble@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796018911D3C4960074E5B7" = {
+			"fileRef" = "1796018511D3C4960074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFEB11D392620074E5B7" = {
+			"fileRef" = "1796FF8A11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFEF11D392620074E5B7" = {
+			"fileRef" = "1796FF8E11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796018A11D3C4960074E5B7" = {
+			"fileRef" = "1796018611D3C4960074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FA1127D7FE00018E053" = {
+			"fileRef" = "17D23F89127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24033127DE6B10018E053" = {
+			"fileRef" = "17D2401B127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFF311D392620074E5B7" = {
+			"fileRef" = "1796FF9211D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFF711D392620074E5B7" = {
+			"fileRef" = "1796FF9611D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF4511D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "SelectedSquareView.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EFB127C16410018E053" = {
+			"name" = "XBoardWKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardWKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EFF127C16410018E053" = {
+			"fileRef" = "17D23EF3127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F83127D7FE00018E053" = {
+			"name" = "BerlinWKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D2403D127DE6CA0018E053" = {
+			"name" = "LeipzigBQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigBQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FB3127D93900018E053" = {
+			"name" = "CheqBKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24041127DE6CA0018E053" = {
+			"name" = "LeipzigWKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigWKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24061127DEB4B0018E053" = {
+			"name" = "ModernBKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24045127DE6CA0018E053" = {
+			"fileRef" = "17D24039127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F52127D7B1C0018E053" = {
+			"name" = "BerlinBKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinBKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24049127DE6CA0018E053" = {
+			"fileRef" = "17D2403D127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F56127D7B1C0018E053" = {
+			"name" = "BerlinBRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinBRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24069127DEB4B0018E053" = {
+			"name" = "ModernWPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D2404A127DE6CA0018E053" = {
+			"fileRef" = "17D2403E127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796015D11D3B92B0074E5B7" = {
+			"fileRef" = "1796015B11D3B92B0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1D30AB110D05D00D00671497" = {
+			"name" = "Foundation.framework";
+			"sourceTree" = "SDKROOT";
+			"lastKnownFileType" = "wrapper.framework";
+			"path" = "System/Library/Frameworks/Foundation.framework";
+			"isa" = "PBXFileReference";
+		};
+		"17D2404E127DE6CA0018E053" = {
+			"fileRef" = "17D24042127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F5B127D7B1C0018E053" = {
+			"name" = "BerlinWQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinWQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F5F127D7B1C0018E053" = {
+			"fileRef" = "17D23F53127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"5087F3EA023B386632613934" = {
+			"name" = "libTouchTestDriver.a";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "archive.ar";
+			"path" = "libTouchTestDriver.a";
+			"isa" = "PBXFileReference";
+		};
+		"5087F3EC023B386632613934" = {
+			"sourceTree" = "<group>";
+			"name" = "TouchTestDriver";
+			"path" = "TouchTestDriver";
+			"children" = (
+				"5087F3EA023B386632613934",
+				"5087F3EB023B386632613934"
+			);
+			"isa" = "PBXGroup";
+		};
+		"17D23F63127D7B1C0018E053" = {
+			"fileRef" = "17D23F57127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFCF11D392620074E5B7" = {
+			"name" = "XBoardBKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F67127D7B1C0018E053" = {
+			"fileRef" = "17D23F5B127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF8411D392620074E5B7" = {
+			"name" = "AlphaBBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF8811D392620074E5B7" = {
+			"name" = "AlphaBKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEAB11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/benchmark.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "benchmark.h";
+			"fileEncoding" = "4";
+		};
+		"1796FEAF11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/bitboard.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "bitboard.h";
+			"fileEncoding" = "4";
+		};
+		"1796005E11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/bitboard.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "bitboard.h";
+			"fileEncoding" = "4";
+		};
+		"29B97323FDCFA39411CA2CEA" = {
+			"sourceTree" = "<group>";
+			"name" = "Frameworks";
+			"children" = (
+				"1DF5F4DF0D08C38300B7A737",
+				"1D30AB110D05D00D00671497",
+				"288765FC0DF74451002DB57D",
+				"1796004E11D393270074E5B7",
+				"50877D8540CA386632613934",
+				"50877D8640CA386632613934",
+				"50877D8740CA386632613934",
+				"50877D8840CA386632613934",
+				"50877D8940CA386632613934"
+			);
+			"isa" = "PBXGroup";
+		};
+		"1796FF8D11D392620074E5B7" = {
+			"name" = "AlphaBRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFD711D392620074E5B7" = {
+			"name" = "XBoardBRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEB311D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/color.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "color.h";
+			"fileEncoding" = "4";
+		};
+		"1796006211D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/color.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "color.h";
+			"fileEncoding" = "4";
+		};
+		"1796FEB711D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/endgame.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "endgame.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FF9111D392620074E5B7" = {
+			"name" = "AlphaWKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796006611D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/lock.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "lock.h";
+			"fileEncoding" = "4";
+		};
+		"1796FF9511D392620074E5B7" = {
+			"name" = "AlphaWPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF9911D392620074E5B7" = {
+			"name" = "AlphaWRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEBC11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/history.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "history.h";
+			"fileEncoding" = "4";
+		};
+		"17D23FE0127D93AD0018E053" = {
+			"name" = "CheqBKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqBKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796006B11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/move.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "move.cpp";
+			"fileEncoding" = "4";
+		};
+		"1751007C1273260E00A59D5B" = {
+			"name" = "AlphaWQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaWQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF9A11D392620074E5B7" = {
+			"name" = "AlphaWRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796006F11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/movepick.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "movepick.cpp";
+			"fileEncoding" = "4";
+		};
+		"17D23FE8127D93AD0018E053" = {
+			"name" = "CheqWQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqWQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEC011D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/material.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "material.cpp";
+			"fileEncoding" = "4";
+		};
+		"175103AA1278AF4500A59D5B" = {
+			"name" = "USCFBQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFBQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FEA127D93AD0018E053" = {
+			"fileRef" = "17D23FDE127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"175100801273260E00A59D5B" = {
+			"name" = "DarkMarble96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/DarkMarble96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"175103AE1278AF4500A59D5B" = {
+			"name" = "USCFWKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFWKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6911D3921A0074E5B7" = {
+			"fileRef" = "1796FF2511D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796007311D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/piece.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "piece.h";
+			"fileEncoding" = "4";
+		};
+		"175100841273260E00A59D5B" = {
+			"name" = "LightMarble96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LightMarble96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FED127D93AD0018E053" = {
+			"fileRef" = "17D23FE1127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2400D127DE6B10018E053" = {
+			"name" = "LeipzigBKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007711D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/san.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "san.cpp";
+			"fileEncoding" = "4";
+		};
+		"175100881273260E00A59D5B" = {
+			"fileRef" = "175100681273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"175103B21278AF4500A59D5B" = {
+			"fileRef" = "175103A61278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFD411D392620074E5B7" = {
+			"name" = "XBoardBQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FECD11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/pawns.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "pawns.h";
+			"fileEncoding" = "4";
+		};
+		"175103B61278AF4500A59D5B" = {
+			"fileRef" = "175103AA1278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24011127DE6B10018E053" = {
+			"name" = "LeipzigBQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007C11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/types.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "types.h";
+			"fileEncoding" = "4";
+		};
+		"17D23FF5127D93AD0018E053" = {
+			"fileRef" = "17D23FE9127D93AD0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FECE11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/piece.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "piece.cpp";
+			"fileEncoding" = "4";
+		};
+		"288765FD0DF74451002DB57D" = {
+			"fileRef" = "288765FC0DF74451002DB57D";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24019127DE6B10018E053" = {
+			"name" = "LeipzigWKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FED111D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/position.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "position.h";
+			"fileEncoding" = "4";
+		};
+		"175103BB1278AF4500A59D5B" = {
+			"fileRef" = "175103AF1278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796008011D393A60074E5B7" = {
+			"fileRef" = "1796005D11D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FED511D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/scale.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "scale.h";
+			"fileEncoding" = "4";
+		};
+		"17D2401A127DE6B10018E053" = {
+			"name" = "LeipzigWKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796008411D393A60074E5B7" = {
+			"fileRef" = "1796006711D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FED911D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/thread.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "thread.h";
+			"fileEncoding" = "4";
+		};
+		"17D2401E127DE6B10018E053" = {
+			"name" = "LeipzigWQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796008811D393A60074E5B7" = {
+			"fileRef" = "1796006F11D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"5087F3ED023B386632613934" = {
+			"fileRef" = "5087F3EA023B386632613934";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEDA11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/tt.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "tt.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796008111D393A60074E5B7" = {
+			"fileRef" = "1796005F11D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FED611D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/search.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "search.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796001311D392620074E5B7" = {
+			"fileRef" = "1796FFB211D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEDE11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/uci.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "uci.h";
+			"fileEncoding" = "4";
+		};
+		"17D24064127DEB4B0018E053" = {
+			"name" = "ModernBQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24022127DE6B10018E053" = {
+			"fileRef" = "17D2400A127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796008D11D393A60074E5B7" = {
+			"fileRef" = "1796007D11D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1751009E1273260E00A59D5B" = {
+			"fileRef" = "1751007E1273260E00A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24026127DE6B10018E053" = {
+			"fileRef" = "17D2400E127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2401F127DE6B10018E053" = {
+			"name" = "LeipzigWRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigWRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEE211D391AA0074E5B7" = {
+			"fileRef" = "1796FEAE11D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F29127CAB7D0018E053" = {
+			"name" = "ModernBKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernBKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796001C11D392620074E5B7" = {
+			"fileRef" = "1796FFBB11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEA011D391570074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "main.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D2402B127DE6B10018E053" = {
+			"fileRef" = "17D24013127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796008A11D393A60074E5B7" = {
+			"fileRef" = "1796007411D393A60074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF0511D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "EditUserNameController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F2E127CAB7D0018E053" = {
+			"name" = "ModernWBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernWBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF0911D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "EngineController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796002011D392620074E5B7" = {
+			"fileRef" = "1796FFBF11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEEB11D391AA0074E5B7" = {
+			"fileRef" = "1796FEC411D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F7B127D7FE00018E053" = {
+			"name" = "BerlinBPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796002411D392620074E5B7" = {
+			"fileRef" = "1796FFC311D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEEF11D391AA0074E5B7" = {
+			"fileRef" = "1796FECC11D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2406D127DEB4B0018E053" = {
+			"fileRef" = "17D24061127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF0A11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "EpSquareController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796002811D392620074E5B7" = {
+			"fileRef" = "1796FFC711D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F32127CAB7D0018E053" = {
+			"name" = "ModernWQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernWQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF0E11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "GameController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F36127CAB7D0018E053" = {
+			"fileRef" = "17D23F2A127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEF311D391AA0074E5B7" = {
+			"fileRef" = "1796FED611D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEE711D391AA0074E5B7" = {
+			"fileRef" = "1796FEBB11D391AA0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796002D11D392620074E5B7" = {
+			"fileRef" = "1796FFCC11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1D6058940D05DD3E006BFB54" = {
+			"buildSettings" = {
+				"OTHER_LDFLAGS" = (
+					"-force_load",
+					"TouchTestDriver/libTouchTestDriver.a"
+				);
+				"ALWAYS_SEARCH_USER_PATHS" = "NO";
+				"GCC_PREFIX_HEADER" = "Stockfish_Prefix.pch";
+				"GCC_PRECOMPILE_PREFIX_HEADER" = "YES";
+				"GCC_DYNAMIC_NO_PIC" = "NO";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				"GCC_PREPROCESSOR_DEFINITIONS" = (
+					"TOUCHTESTDRIVER"
+				);
+				"COPY_PHASE_STRIP" = "NO";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"LIBRARY_SEARCH_PATHS" = (
+					"$(inherited)",
+					"\"$(SRCROOT)/TouchTestDriver\""
+				);
+				"IPHONEOS_DEPLOYMENT_TARGET" = "6.0";
+				"CODE_SIGN_ENTITLEMENTS" = "";
+				"PRODUCT_NAME" = "Stockfish";
+				"INFOPLIST_FILE" = "Stockfish-Info.plist";
+				"SDKROOT" = "iphoneos";
+				"ARCHS" = "$(ARCHS_STANDARD_32_BIT)";
+				"TARGETED_DEVICE_FAMILY" = "1,2";
+				"GCC_OPTIMIZATION_LEVEL" = "0";
+			};
+			"name" = "Debug";
+			"isa" = "XCBuildConfiguration";
+		};
+		"1796FF0211D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "DateTagViewController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F3B127CAB7D0018E053" = {
+			"fileRef" = "17D23F2F127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF1611D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "GamePreview.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F2B127CAB7D0018E053" = {
+			"name" = "ModernBPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/ModernBPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EF1127C162B0018E053" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "file";
+			"path" = "iTunesArtwork";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F3F127CAB7D0018E053" = {
+			"fileRef" = "17D23F33127CAB7D0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796003111D392620074E5B7" = {
+			"fileRef" = "1796FFD011D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1DF5F4E00D08C38300B7A737" = {
+			"fileRef" = "1DF5F4DF0D08C38300B7A737";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F8C127D7FE00018E053" = {
+			"fileRef" = "17D23F74127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796003511D392620074E5B7" = {
+			"fileRef" = "1796FFD411D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFD211D392620074E5B7" = {
+			"name" = "XBoardBPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF1B11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "HighlightedSquaresView.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796003911D392620074E5B7" = {
+			"fileRef" = "1796FFD811D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF1F11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "LevelViewController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF0B11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "EpSquareController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796003A11D392620074E5B7" = {
+			"fileRef" = "1796FFD911D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F94127D7FE00018E053" = {
+			"fileRef" = "17D23F7C127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796003E11D392620074E5B7" = {
+			"fileRef" = "1796FFDD11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F98127D7FE00018E053" = {
+			"fileRef" = "17D23F80127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF2711D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "Options.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FB2127D93900018E053" = {
+			"name" = "CheqBKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796004211D392620074E5B7" = {
+			"fileRef" = "1796FFE111D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796004C11D392F20074E5B7" = {
+			"fileRef" = "1796004A11D392F20074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F03127C16410018E053" = {
+			"fileRef" = "17D23EF7127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F9D127D7FE00018E053" = {
+			"fileRef" = "17D23F85127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F07127C16410018E053" = {
+			"fileRef" = "17D23EFB127C16410018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF2C11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "PGNTextFieldController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EBC127C0A940018E053" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.png";
+			"path" = "Icon-72.png";
+			"isa" = "PBXFileReference";
+		};
+		"179600D411D395E90074E5B7" = {
+			"fileRef" = "179600D311D395E90074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FBB127D93900018E053" = {
+			"name" = "CheqWBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF3011D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "PlayStyleViewController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EC0127C0A940018E053" = {
+			"fileRef" = "17D23EBD127C0A940018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF3411D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "RemoteEngineController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"28AD733F0D9D9553002E5188" = {
+			"fileRef" = "28AD733E0D9D9553002E5188";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF3811D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "RemoteEngineTableController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D24066127DEB4B0018E053" = {
+			"name" = "ModernWBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FC3127D93900018E053" = {
+			"name" = "CheqWQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FC7127D93900018E053" = {
+			"fileRef" = "17D23FAF127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF3D11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "ResultTagViewController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FCC127D93900018E053" = {
+			"fileRef" = "17D23FB4127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FAF127D93900018E053" = {
+			"name" = "CheqBBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF4111D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "SaveFileListController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFCC11D392620074E5B7" = {
+			"name" = "XBoardBBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardBBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF2411D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "OpeningBook.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796015F11D3B9360074E5B7" = {
+			"name" = "DarkWood@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/DarkWood@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF4911D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "SetupViewController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FD4127D93900018E053" = {
+			"fileRef" = "17D23FBC127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF4A11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "SideToMoveController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF4E11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "StrengthOptionController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"179600BD11D395860074E5B7" = {
+			"fileRef" = "179600B911D395860074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24077127DEB4B0018E053" = {
+			"fileRef" = "17D2406B127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FDD127D93900018E053" = {
+			"fileRef" = "17D23FC5127D93900018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF5211D3921A0074E5B7" = {
+			"fileRef" = "1796FEF711D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF5611D3921A0074E5B7" = {
+			"fileRef" = "1796FEFF11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"C01FCF5008A954540054247B" = {
+			"buildSettings" = {
+				"GCC_C_LANGUAGE_STANDARD" = "c99";
+				"OTHER_CFLAGS" = "-DNS_BLOCK_ASSERTIONS=1";
+				"GCC_WARN_UNUSED_VARIABLE" = "YES";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				"GCC_WARN_ABOUT_RETURN_TYPE" = "YES";
+				"ONLY_ACTIVE_ARCH" = "YES";
+				"SDKROOT" = "iphoneos";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Mark Prichard";
+				"ARCHS" = "$(ARCHS_STANDARD_32_BIT)";
+			};
+			"name" = "Release";
+			"isa" = "XCBuildConfiguration";
+		};
+		"1796FFA911D392620074E5B7" = {
+			"name" = "ModernBKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"5087991C59A0386632613934" = {
+			"fileRef" = "50877D8540CA386632613934";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FE2127D93AD0018E053" = {
+			"name" = "CheqBQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqBQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFAA11D392620074E5B7" = {
+			"name" = "ModernBKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF5B11D3921A0074E5B7" = {
+			"fileRef" = "1796FF0911D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFAE11D392620074E5B7" = {
+			"name" = "ModernWBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF5F11D3921A0074E5B7" = {
+			"fileRef" = "1796FF1111D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"5087992059A0386632613934" = {
+			"fileRef" = "50877D8940CA386632613934";
+			"isa" = "PBXBuildFile";
+		};
+		"1796004711D392AD0074E5B7" = {
+			"name" = "Click.wav";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "audio.wav";
+			"path" = "Sounds/Click.wav";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FC0127D93900018E053" = {
+			"name" = "CheqWPawn.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqWPawn.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFB211D392620074E5B7" = {
+			"name" = "ModernWQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6311D3921A0074E5B7" = {
+			"fileRef" = "1796FF1911D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFB611D392620074E5B7" = {
+			"name" = "USCFBKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6711D3921A0074E5B7" = {
+			"fileRef" = "1796FF2111D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2400B127DE6B10018E053" = {
+			"name" = "LeipzigBKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFBB11D392620074E5B7" = {
+			"name" = "USCFBPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF6C11D3921A0074E5B7" = {
+			"fileRef" = "1796FF2B11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFBF11D392620074E5B7" = {
+			"name" = "USCFBRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFBRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796018411D3C4960074E5B7" = {
+			"name" = "DarkMarble.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/DarkMarble.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24062127DEB4B0018E053" = {
+			"name" = "ModernBKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"175103B81278AF4500A59D5B" = {
+			"fileRef" = "175103AC1278AF4500A59D5B";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFC311D392620074E5B7" = {
+			"name" = "USCFWKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7411D3921A0074E5B7" = {
+			"fileRef" = "1796FF3B11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFC711D392620074E5B7" = {
+			"name" = "USCFWPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/USCFWPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF7811D3921A0074E5B7" = {
+			"fileRef" = "1796FF4311D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2406B127DEB4B0018E053" = {
+			"name" = "ModernWRook@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernWRook@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1760221E128491B9000DFCA6" = {
+			"name" = "DarkGreenMarble.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/DarkGreenMarble.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D2406F127DEB4B0018E053" = {
+			"fileRef" = "17D24063127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FF7D11D3921A0074E5B7" = {
+			"fileRef" = "1796FF4D11D3921A0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEF711D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"path" = "AboutController.mm";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796004911D392E90074E5B7" = {
+			"sourceTree" = "<group>";
+			"name" = "HTML";
+			"children" = (
+				"1796004A11D392F20074E5B7",
+				"1796004B11D392F20074E5B7"
+			);
+			"isa" = "PBXGroup";
+		};
+		"19C28FACFE9D520D11CA2CBB" = {
+			"sourceTree" = "<group>";
+			"name" = "Products";
+			"children" = (
+				"1D6058910D05DD3D006BFB54"
+			);
+			"isa" = "PBXGroup";
+		};
+		"17D24073127DEB4B0018E053" = {
+			"fileRef" = "17D24067127DEB4B0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEFC11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "CastleRightsController.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFD811D392620074E5B7" = {
+			"name" = "XBoardWBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24063127DEB4B0018E053" = {
+			"name" = "ModernBPawn@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/ModernBPawn@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFDD11D392620074E5B7" = {
+			"name" = "XBoardWKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F88127D7FE00018E053" = {
+			"name" = "BerlinWQueen.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWQueen.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17602224128491C6000DFCA6" = {
+			"fileRef" = "17602222128491C6000DFCA6";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFE111D392620074E5B7" = {
+			"name" = "XBoardWQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1D6058900D05DD3D006BFB54" = {
+			"productType" = "com.apple.product-type.application";
+			"productReference" = "1D6058910D05DD3D006BFB54";
+			"buildPhases" = (
+				"1D60588D0D05DD3D006BFB54",
+				"1D60588E0D05DD3D006BFB54",
+				"1D60588F0D05DD3D006BFB54"
+			);
+			"isa" = "PBXNativeTarget";
+			"dependencies" = ();
+			"productName" = "Glaurung";
+			"name" = "Stockfish";
+			"buildRules" = ();
+			"buildConfigurationList" = "1D6058960D05DD3E006BFB54";
+		};
+		"1796FFE511D392620074E5B7" = {
+			"fileRef" = "1796FF8411D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFE911D392620074E5B7" = {
+			"fileRef" = "1796FF8811D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D2402D127DE6B10018E053" = {
+			"fileRef" = "17D24015127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796018811D3C4960074E5B7" = {
+			"fileRef" = "1796018411D3C4960074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFEA11D392620074E5B7" = {
+			"fileRef" = "1796FF8911D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FFEE11D392620074E5B7" = {
+			"fileRef" = "1796FF8D11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23FA0127D7FE00018E053" = {
+			"fileRef" = "17D23F88127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F7D127D7FE00018E053" = {
+			"name" = "BerlinBQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinBQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EF5127C16410018E053" = {
+			"name" = "XBoardBKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardBKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFF211D392620074E5B7" = {
+			"fileRef" = "1796FF9111D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24035127DE6B10018E053" = {
+			"fileRef" = "17D2401D127DE6B10018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23EF9127C16410018E053" = {
+			"name" = "XBoardWBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardWBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFF611D392620074E5B7" = {
+			"fileRef" = "1796FF9511D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796005911D3938F0074E5B7" = {
+			"sourceTree" = "<group>";
+			"name" = "Chess";
+			"children" = (
+				"1796005B11D393A60074E5B7",
+				"1796005C11D393A60074E5B7",
+				"1796005D11D393A60074E5B7",
+				"1796005E11D393A60074E5B7",
+				"1796005F11D393A60074E5B7",
+				"1796006011D393A60074E5B7",
+				"1796006111D393A60074E5B7",
+				"1796006211D393A60074E5B7",
+				"1796006311D393A60074E5B7",
+				"1796006411D393A60074E5B7",
+				"1796006511D393A60074E5B7",
+				"1796006611D393A60074E5B7",
+				"1796006711D393A60074E5B7",
+				"1796006811D393A60074E5B7",
+				"1796006911D393A60074E5B7",
+				"1796006A11D393A60074E5B7",
+				"1796006B11D393A60074E5B7",
+				"1796006C11D393A60074E5B7",
+				"1796006D11D393A60074E5B7",
+				"1796006E11D393A60074E5B7",
+				"1796006F11D393A60074E5B7",
+				"1796007011D393A60074E5B7",
+				"1796007111D393A60074E5B7",
+				"1796007211D393A60074E5B7",
+				"1796007311D393A60074E5B7",
+				"1796007411D393A60074E5B7",
+				"1796007511D393A60074E5B7",
+				"1796007611D393A60074E5B7",
+				"1796007711D393A60074E5B7",
+				"1796007811D393A60074E5B7",
+				"1796007911D393A60074E5B7",
+				"1796007A11D393A60074E5B7",
+				"1796007B11D393A60074E5B7",
+				"1796007C11D393A60074E5B7",
+				"1796007D11D393A60074E5B7",
+				"1796007E11D393A60074E5B7"
+			);
+			"isa" = "PBXGroup";
+		};
+		"1760221512848F9C000DFCA6" = {
+			"fileRef" = "1760221412848F9C000DFCA6";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23EFA127C16410018E053" = {
+			"name" = "XBoardWKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardWKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23EFE127C16410018E053" = {
+			"name" = "XBoardWRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/XBoardWRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFFB11D392620074E5B7" = {
+			"fileRef" = "1796FF9A11D392620074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F85127D7FE00018E053" = {
+			"name" = "BerlinWKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/BerlinWKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D2403C127DE6CA0018E053" = {
+			"name" = "LeipzigBPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigBPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24040127DE6CA0018E053" = {
+			"name" = "LeipzigWKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigWKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"179601B811D3CDA00074E5B7" = {
+			"fileRef" = "179601B711D3CDA00074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"17D24044127DE6CA0018E053" = {
+			"name" = "LeipzigWRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/LeipzigWRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F51127D7B1C0018E053" = {
+			"name" = "BerlinBBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinBBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FB8127D93900018E053" = {
+			"name" = "CheqBRook.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/CheqBRook.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D24048127DE6CA0018E053" = {
+			"fileRef" = "17D2403C127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F55127D7B1C0018E053" = {
+			"name" = "BerlinBQueen96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinBQueen96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F59127D7B1C0018E053" = {
+			"name" = "BerlinWKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinWKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796015C11D3B92B0074E5B7" = {
+			"fileRef" = "1796015A11D3B92B0074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796004511D392740074E5B7" = {
+			"sourceTree" = "<group>";
+			"name" = "Sounds";
+			"children" = (
+				"1796004711D392AD0074E5B7"
+			);
+			"isa" = "PBXGroup";
+		};
+		"17D2404D127DE6CA0018E053" = {
+			"fileRef" = "17D24041127DE6CA0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"17D23F5A127D7B1C0018E053" = {
+			"name" = "BerlinWPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/BerlinWPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F5E127D7B1C0018E053" = {
+			"fileRef" = "17D23F52127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"29B97315FDCFA39411CA2CEA" = {
+			"sourceTree" = "<group>";
+			"name" = "Other Sources";
+			"children" = (
+				"32CA4F630368D1EE00C91783",
+				"1796FEA011D391570074E5B7"
+			);
+			"isa" = "PBXGroup";
+		};
+		"17D23F96127D7FE00018E053" = {
+			"fileRef" = "17D23F7E127D7FE00018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1760221F128491B9000DFCA6" = {
+			"name" = "DarkGreenMarble@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/DarkGreenMarble@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F62127D7B1C0018E053" = {
+			"fileRef" = "17D23F56127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"175100741273260E00A59D5B" = {
+			"name" = "AlphaWBishop96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaWBishop96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23F66127D7B1C0018E053" = {
+			"fileRef" = "17D23F5A127D7B1C0018E053";
+			"isa" = "PBXBuildFile";
+		};
+		"1796FEA911D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/application.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "application.h";
+			"fileEncoding" = "4";
+		};
+		"1796FF8311D392620074E5B7" = {
+			"name" = "AlphaBBishop.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBBishop.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEF811D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "BoardView.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"50877D8540CA386632613934" = {
+			"name" = "CFNetwork.framework";
+			"sourceTree" = "SDKROOT";
+			"lastKnownFileType" = "wrapper.framework";
+			"path" = "System/Library/Frameworks/CFNetwork.framework";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF8711D392620074E5B7" = {
+			"name" = "AlphaBKnight.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBKnight.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEAA11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/benchmark.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "benchmark.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FEAE11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/bitboard.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "bitboard.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FF2A11D3921A0074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "PGN.h";
+			"fileEncoding" = "4";
+			"isa" = "PBXFileReference";
+		};
+		"1796005D11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/bitboard.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "bitboard.cpp";
+			"fileEncoding" = "4";
+		};
+		"1751006E1273260E00A59D5B" = {
+			"name" = "AlphaBPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaBPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF8C11D392620074E5B7" = {
+			"name" = "AlphaBQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaBQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D23FDF127D93AD0018E053" = {
+			"name" = "CheqBKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqBKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"179600DF11D397240074E5B7" = {
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.png";
+			"path" = "Icon.png";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEB211D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/book.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "book.h";
+			"fileEncoding" = "4";
+		};
+		"17D23FE1127D93AD0018E053" = {
+			"name" = "CheqBPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqBPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796006111D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/color.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "color.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FEB611D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/direction.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "direction.h";
+			"fileEncoding" = "4";
+		};
+		"1796FF9011D392620074E5B7" = {
+			"name" = "AlphaWBishop@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWBishop@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796006511D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/direction.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "direction.h";
+			"fileEncoding" = "4";
+		};
+		"175100761273260E00A59D5B" = {
+			"name" = "AlphaWKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/AlphaWKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FF9411D392620074E5B7" = {
+			"name" = "AlphaWKnight@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWKnight@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796004F11D393270074E5B7" = {
+			"fileRef" = "1796004E11D393270074E5B7";
+			"isa" = "PBXBuildFile";
+		};
+		"1796006911D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/misc.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "misc.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FF9811D392620074E5B7" = {
+			"name" = "AlphaWQueen@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/AlphaWQueen@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FFDA11D392620074E5B7" = {
+			"name" = "XBoardWKing.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/XBoardWKing.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEBB11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Engine/history.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "history.cpp";
+			"fileEncoding" = "4";
+		};
+		"17D23FE9127D93AD0018E053" = {
+			"name" = "CheqWRook96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqWRook96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796006A11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/misc.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "misc.h";
+			"fileEncoding" = "4";
+		};
+		"1796FEBF11D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/lock.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "lock.h";
+			"fileEncoding" = "4";
+		};
+		"175103A81278AF4500A59D5B" = {
+			"name" = "USCFBKnight96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFBKnight96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796006E11D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Chess/movegen.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "movegen.h";
+			"fileEncoding" = "4";
+		};
+		"17D23FE7127D93AD0018E053" = {
+			"name" = "CheqWPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/CheqWPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17602220128491B9000DFCA6" = {
+			"fileRef" = "1760221E128491B9000DFCA6";
+			"isa" = "PBXBuildFile";
+		};
+		"175103AD1278AF4500A59D5B" = {
+			"name" = "USCFWKing96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFWKing96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796FEC311D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/mersenne.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "mersenne.h";
+			"fileEncoding" = "4";
+		};
+		"175103AF1278AF4500A59D5B" = {
+			"name" = "USCFWPawn96.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images-iPad/USCFWPawn96.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"17D2400C127DE6B10018E053" = {
+			"name" = "LeipzigBKing@2x.tiff";
+			"sourceTree" = "<group>";
+			"lastKnownFileType" = "image.tiff";
+			"path" = "Images/LeipzigBKing@2x.tiff";
+			"isa" = "PBXFileReference";
+		};
+		"1796007211D393A60074E5B7" = {
+			"lastKnownFileType" = "sourcecode.cpp.cpp";
+			"path" = "Chess/piece.cpp";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "<group>";
+			"name" = "piece.cpp";
+			"fileEncoding" = "4";
+		};
+		"1796FEC711D391AA0074E5B7" = {
+			"lastKnownFileType" = "sourcecode.c.h";
+			"path" = "Engine/move.h";
+			"isa" = "PBXFileReference";
+			"sourceTree" = "SOURCE_ROOT";
+			"name" = "move.h";
+			"fileEncoding" = "4";
+		};
+	};
+	"archiveVersion" = "1";
+}
