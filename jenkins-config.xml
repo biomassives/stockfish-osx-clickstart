@@ -6,8 +6,8 @@ Test iOS Xcode build: Requies a MacOS slave with Xcode installed. The output is 
  <br><br>
  
  1. To connect the slave, run something like this:<br>
- <i>java -jar jenkins-cli.jar -s https://&lt;your-domain-name&gt;.ci.cloudbees.com -i &lt;your-private-ssh-keyfile&gt; customer-managed-slave 
- -fsroot &lt;Jenkins-workspace-location&lt; -labels android -labels xcode -executors 4 -name mobile-slave</i><br><br>
+ <i>java -jar jenkins-cli.jar -s https://&lt;your-domain-name&gt;.ci.cloudbees.com -i &lt;your-private-ssh-keyfile&gt; 
+ customer-managed-slave -fsroot &lt;Jenkins-workspace-location&lt; -labels android -labels xcode -executors 4 -name mobile-slave</i><br><br>
  
  2. Run the build
  <br><br>
