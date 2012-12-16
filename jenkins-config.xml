@@ -1,0 +1,113 @@
+<project>
+	<actions/>
+	<description>
+Test iOS Xcode build: Requies a MacOS slave with Xcode installed. The output is $WORKSPACE/Applications/Stockfish.app, 
+ which can be run in the lcoal environment using the Xcode iOS Simulator lauched via the $WORKSPACE/ios-sim utility.
+ <br><br>
+ 
+ 1. To connect the slave, run something like this:<br>
+ <i>java -jar jenkins-cli.jar -s https://&lt;your-domain-name&gt;.ci.cloudbees.com -i &lt;your-private-ssh-keyfile&gt; customer-managed-slave 
+ -fsroot &lt;Jenkins-workspace-location&lt; -labels android -labels xcode -executors 4 -name mobile-slave</i><br><br>
+ 
+ 2. Run the build
+ <br><br>
+ 
+ 3. To run the application using a local iOS Simulator, run the following command (where FSROOT points to the root file system 
+ for the Jenkins client, i.e the -fsroot parameter used when connecting jenkins-cli.jar)<br>
+ <i>
+ WORKSPACE=$FSROOT/workspace/Mobile/stockfish-ios-mac-slave-app
+ <br>
+ $WORKSPACE/ios-sim launch $WORKSPACE/Applications/Stockfish.app
+ </i>
+	</description>
+		<logRotator>
+		<daysToKeep>60</daysToKeep>
+		<numToKeep>-1</numToKeep>
+		<artifactDaysToKeep>-1</artifactDaysToKeep>
+		<artifactNumToKeep>20</artifactNumToKeep>
+	</logRotator>
+	<keepDependencies>false</keepDependencies>
+	<properties>
+		<nectar.plugins.rbac.groups.JobProxyGroupContainer/>
+		<com.cloudbees.jenkins.plugins.PublicKey/>
+		<com.cloudbees.plugins.deployer.DeployNowJobProperty>
+		<oneClickDeploy>false</oneClickDeploy>
+		<configuration>
+			<user>(jenkins)</user>
+			<account>partnerdemo</account>
+			<deployables/>
+		</configuration>
+		</com.cloudbees.plugins.deployer.DeployNowJobProperty>
+		<com.gmail.ikeike443.PlayAutoTestJobProperty/>
+	</properties>
+	<scm class="hudson.plugins.git.GitSCM">
+		<configVersion>2</configVersion>
+		<userRemoteConfigs>
+			<hudson.plugins.git.UserRemoteConfig>
+				<name/>
+				<refspec/>
+				<url>${repositoryUrl}</url>
+			</hudson.plugins.git.UserRemoteConfig>
+		</userRemoteConfigs>
+		<branches>
+			<hudson.plugins.git.BranchSpec>
+				<name>**</name>
+			</hudson.plugins.git.BranchSpec>
+		</branches>
+		<disableSubmodules>false</disableSubmodules>
+		<recursiveSubmodules>false</recursiveSubmodules>
+		<doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
+		<authorOrCommitter>false</authorOrCommitter>
+		<clean>false</clean>
+		<wipeOutWorkspace>false</wipeOutWorkspace>
+		<pruneBranches>false</pruneBranches>
+		<remotePoll>false</remotePoll>
+		<ignoreNotifyCommit>false</ignoreNotifyCommit>
+		<useShallowClone>false</useShallowClone>
+		<buildChooser class="hudson.plugins.git.util.DefaultBuildChooser"/>
+		<gitTool>Default</gitTool>
+		<submoduleCfg class="list"/>
+		<relativeTargetDir/>
+		<reference/>
+		<excludedRegions/>
+		<excludedUsers/>
+		<gitConfigName/>
+		<gitConfigEmail/>
+		<skipTag>false</skipTag>
+		<includedRegions/>
+		<scmName/>
+	</scm>
+	<assignedNode>xcode</assignedNode>
+	<canRoam>false</canRoam>
+	<disabled>false</disabled>
+	<blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+	<blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+	<jdk>(Default)</jdk>
+	<triggers class="vector"/>
+	<concurrentBuild>false</concurrentBuild>
+	<builders>
+		<au.com.rayh.XCodeBuilder>
+			<cleanBeforeBuild>true</cleanBeforeBuild>
+			<cleanTestReports>false</cleanTestReports>
+			<configuration>Debug</configuration>
+			<target>Stockfish</target>
+			<sdk>iphonesimulator</sdk>
+			<symRoot/>
+			<configurationBuildDir/>
+			<xcodeProjectPath/>
+			<xcodeProjectFile/>
+			<xcodebuildArguments>DSTROOT=. clean install</xcodebuildArguments>
+			<xcodeSchema/>
+			<xcodeWorkspaceFile/>
+			<embeddedProfileFile/>
+			<cfBundleVersionValue>2.2.${BUILD_NUMBER}</cfBundleVersionValue>
+			<cfBundleShortVersionStringValue>2.2.${BUILD_NUMBER}</cfBundleShortVersionStringValue>
+			<buildIpa>false</buildIpa>
+			<unlockKeychain>false</unlockKeychain>
+			<keychainPath>${HOME}/Library/Keychains/login.keychain</keychainPath>
+			<keychainPwd/>
+		</au.com.rayh.XCodeBuilder>
+	</builders>
+	<publishers/>
+	<buildWrappers/>
+</project>
