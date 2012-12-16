@@ -1,6 +1,6 @@
 {
     "id": "stockfishchess-ios-app",
-    "name": "Stockfish",
+    "name": "Stockfish iOS Build",
     "source": "github",
     "description" : "Stockfish Chess Program for iOS - App Build",
     "doc-url" : "https://github.com/mqprichard/stockfishchess-ios-app/blob/master/readme.md",

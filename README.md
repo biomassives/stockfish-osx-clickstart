@@ -1,5 +1,5 @@
-stockfishchess-ios
-==================
+stockfishchess-ios-app
+======================
 
 Stockfish iOS app: Automated CI for iOS (Universal iPhone/iPad build) using CloudBees/Jenkins.  Based on Mukul Sharma's [port](https://github.com/elitecoder/stockfishchess-ios) of the [Stockfish](http://stockfishchess.org) chess engine.  This build runs on a MacOS slave, using the [Customer Provided Executors](https://wiki.cloudbees.com/bin/view/DEV/Customer+Provided+Slaves) feature of ClousBees DEV@Cloud.  Please consult the [CloudBees documentation](https://wiki.cloudbees.com/bin/view/DEV/Customer+Provided+Slaves) for how to configure and connect the slave - you will need to set up ssh keys to secure the connection, which can be started like this:
 
