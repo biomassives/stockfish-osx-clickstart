@@ -2,8 +2,6 @@
 <project>
 	<actions/>
 	<description>
-Test iOS Xcode build: Requires a MacOS slave with Xcode installed. The output is $WORKSPACE/Applications/Stockfish.app, 
- which can be run in the local environment using the Xcode iOS Simulator lauched via the $WORKSPACE/ios-sim utility.
 	</description>
 		<logRotator>
 		<daysToKeep>60</daysToKeep>
