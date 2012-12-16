@@ -7,7 +7,7 @@
     "icon" : "https://d3ko533tu1ozfq.cloudfront.net/clickstart/sencha_icon.png",
 
     "build-with-jenkins": {
-        "plugins" : ["git","xcode"],
+        "plugins" : ["git","xcode-plugin"],
         "template": {
             "type": "https://raw.github.com/mqprichard/stockfishchess-ios-app/master/jenkins-config.xml",
             "options": {
