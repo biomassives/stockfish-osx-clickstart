@@ -27,19 +27,7 @@ Test iOS Xcode build: Requies a MacOS slave with Xcode installed. The output is 
 		<artifactNumToKeep>20</artifactNumToKeep>
 	</logRotator>
 	<keepDependencies>false</keepDependencies>
-	<properties>
-		<nectar.plugins.rbac.groups.JobProxyGroupContainer/>
-		<com.cloudbees.jenkins.plugins.PublicKey/>
-		<com.cloudbees.plugins.deployer.DeployNowJobProperty>
-		<oneClickDeploy>false</oneClickDeploy>
-		<configuration>
-			<user>(jenkins)</user>
-			<account>partnerdemo</account>
-			<deployables/>
-		</configuration>
-		</com.cloudbees.plugins.deployer.DeployNowJobProperty>
-		<com.gmail.ikeike443.PlayAutoTestJobProperty/>
-	</properties>
+	<properties/>
 	<scm class="hudson.plugins.git.GitSCM">
 		<configVersion>2</configVersion>
 		<userRemoteConfigs>
