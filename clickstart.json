@@ -8,7 +8,7 @@
     "disabled" : true,
 
     "build-with-jenkins": {
-        "plugins" : ["git","xcode-plugin"],
+        "plugins" : ["xcode-plugin"],
         "template": {
             "type": "https://raw.github.com/mqprichard/stockfishchess-ios-app/master/jenkins-config.xml",
             "options": {
