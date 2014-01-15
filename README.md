@@ -13,4 +13,4 @@ You will need to have Xcode installed on the MacOS slave: once the build is comp
 
 <code>$WORKSPACE/ios-sim launch $WORKSPACE/Applications/Stockfish.app</code> 
 
-See this [CloudBees blog](http://blog.cloudbees.com/2012/12/mobile-builds-with-jenkins-in-cloud.html) for more information.
+See this [CloudBees blog](http://blog.cloudbees.com/2012/12/mobile-builds-with-jenkins-in-cloud.html) for more information about building iOS applications with CloudBees DEV@cloud.
