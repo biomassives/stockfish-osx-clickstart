@@ -2,8 +2,9 @@
 <project>
 	<actions/>
 	<description>
-Stockfish iOS Xcode build: Runs on a CloudBees hosted OSX executor. The application can be found in $WORKSPACE/Applications/Stockfish.app,
- and can be run in the local environment using the Xcode iOS Simulator launched via the $WORKSPACE/ios-sim utility (ios-sim launch Stockfish.app).
+Stockfish iOS Xcode build: Runs on a CloudBees hosted OSX executor.
+The application can be found in $WORKSPACE/Applications/Stockfish.app, and can be run in the local environment 
+using the Xcode iOS Simulator launched via the $WORKSPACE/ios-sim utility (ios-sim launch Stockfish.app).
 	</description>
 		<logRotator>
 		<daysToKeep>60</daysToKeep>
@@ -50,7 +51,7 @@ Stockfish iOS Xcode build: Runs on a CloudBees hosted OSX executor. The applicat
 		<includedRegions/>
 		<scmName/>
 	</scm>
-	<assignedNode>xcode</assignedNode>
+	<assignedNode>osx</assignedNode>
 	<canRoam>false</canRoam>
 	<disabled>false</disabled>
 	<blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
