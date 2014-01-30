@@ -60,25 +60,32 @@ Stockfish iOS Xcode build: Requires a MacOS slave with Xcode installed. The outp
 	<concurrentBuild>false</concurrentBuild>
 	<builders>
 		<au.com.rayh.XCodeBuilder>
-			<cleanBeforeBuild>true</cleanBeforeBuild>
+			<cleanBeforeBuild>false</cleanBeforeBuild>
 			<cleanTestReports>false</cleanTestReports>
 			<configuration>Debug</configuration>
 			<target>Stockfish</target>
-			<sdk>iphonesimulator</sdk>
+			<sdk>iphonesimulator7.0</sdk>
 			<symRoot/>
 			<configurationBuildDir/>
 			<xcodeProjectPath/>
 			<xcodeProjectFile/>
-			<xcodebuildArguments>DSTROOT=. clean install</xcodebuildArguments>
+			<xcodebuildArguments/>
 			<xcodeSchema/>
 			<xcodeWorkspaceFile/>
 			<embeddedProfileFile/>
-			<cfBundleVersionValue>2.2.${BUILD_NUMBER}</cfBundleVersionValue>
-			<cfBundleShortVersionStringValue>2.2.${BUILD_NUMBER}</cfBundleShortVersionStringValue>
+			<cfBundleVersionValue/>
+			<cfBundleShortVersionStringValue/>
 			<buildIpa>false</buildIpa>
+			<generateArchive>false</generateArchive>
 			<unlockKeychain>false</unlockKeychain>
-			<keychainPath>${HOME}/Library/Keychains/login.keychain</keychainPath>
+			<keychainName>none (specify one below)</keychainName>
+			<keychainPath/>
 			<keychainPwd/>
+			<codeSigningIdentity/>
+			<allowFailingBuildResults>false</allowFailingBuildResults>
+			<ipaName/>
+			<ipaOutputDirectory/>
+			<provideApplicationVersion>false</provideApplicationVersion>
 		</au.com.rayh.XCodeBuilder>
 	</builders>
 	<publishers/>
