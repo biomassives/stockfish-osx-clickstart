@@ -13,32 +13,14 @@ using the Xcode iOS Simulator launched via the $WORKSPACE/ios-sim utility (ios-s
 		<artifactNumToKeep>20</artifactNumToKeep>
 	</logRotator>
 	<keepDependencies>false</keepDependencies>
-  	<properties>
-    		<nectar.plugins.rbac.groups.JobProxyGroupContainer plugin="nectar-rbac@3.4">
-      			<groups/>
-    		</nectar.plugins.rbac.groups.JobProxyGroupContainer>
-    		<com.cloudbees.jenkins.plugins.PublicKey plugin="cloudbees-public-key@1.1"/>
-    		<com.cloudbees.plugins.deployer.DeployNowJobProperty plugin="cloudbees-deployer-plugin@4.2">
-      			<oneClickDeploy>false</oneClickDeploy>
-      			<hosts>
-        			<com.cloudbees.plugins.deployer.impl.run.RunHostImpl>
-          				<targets class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-            				<c class="list"/>
-            				<list reference="../c"/>
-          				</targets>
-          				<user>(jenkins)</user>
-          				<account>${account}</account>
-        			</com.cloudbees.plugins.deployer.impl.run.RunHostImpl>
-      			</hosts>
-    		</com.cloudbees.plugins.deployer.DeployNowJobProperty>
-  	</properties>
+  	<properties/>
   	<scm class="hudson.plugins.git.GitSCM">
     		<configVersion>2</configVersion>
     		<userRemoteConfigs>
       			<hudson.plugins.git.UserRemoteConfig>
         			<name></name>
         			<refspec></refspec>
-        			<url>${repositoryUrl}</url>
+        			<url>https://github.com/mqprichard/stockfishchess-ios-app</url>
       			</hudson.plugins.git.UserRemoteConfig>
     		</userRemoteConfigs>
     		<branches>
