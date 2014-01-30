@@ -20,7 +20,7 @@ using the Xcode iOS Simulator launched via the $WORKSPACE/ios-sim utility (ios-s
       			<hudson.plugins.git.UserRemoteConfig>
         			<name></name>
         			<refspec></refspec>
-        			<url>https://github.com/mqprichard/stockfish-osx-clickstart</url>
+        			<url>https://github.com/CloudBees-community/stockfish-osx-clickstart</url>
       			</hudson.plugins.git.UserRemoteConfig>
     		</userRemoteConfigs>
     		<branches>
