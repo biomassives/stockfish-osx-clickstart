@@ -1,16 +1,16 @@
 {
-    "id": "stockfishchess-ios-app",
+    "id": "stockfish-osx-clickstart",
     "name": "Stockfish iOS Build",
     "source": "github",
     "description" : "Stockfish Chess Program for iOS - App Build",
-    "doc-url" : "https://github.com/mqprichard/stockfishchess-ios-app/blob/master/readme.md",
+    "doc-url" : "https://github.com/CloudBees-community/stockfish-osx-clickstart/blob/master/readme.md",
     "icon" : "https://d3ko533tu1ozfq.cloudfront.net/clickstart/sencha_icon.png",
     "disabled" : true,
 
     "build-with-jenkins": {
-        "plugins" : ["git","xcode-plugin"],
+        "plugins" : [],
         "template": {
-            "type": "https://raw.github.com/mqprichard/stockfishchess-ios-app/master/jenkins-config.xml",
+            "type": "https://raw.github.com/CloudBees-community/stockfish-osx-clickstart/master/jenkins-config.xml",
             "options": {
             }
         }

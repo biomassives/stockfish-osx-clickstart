@@ -2,8 +2,9 @@
 <project>
 	<actions/>
 	<description>
-Stockfish iOS Xcode build: Requires a MacOS slave with Xcode installed. The output is $WORKSPACE/Applications/Stockfish.app,
- which can be run in the local environment using the Xcode iOS Simulator lauched via the $WORKSPACE/ios-sim utility.
+Stockfish iOS Xcode build: Runs on a CloudBees hosted OSX executor.
+The application can be found in $WORKSPACE/Applications/Stockfish.app, and can be run in the local environment 
+using the Xcode iOS Simulator launched via the $WORKSPACE/ios-sim utility (ios-sim launch Stockfish.app).
 	</description>
 		<logRotator>
 		<daysToKeep>60</daysToKeep>
@@ -12,45 +13,45 @@ Stockfish iOS Xcode build: Requires a MacOS slave with Xcode installed. The outp
 		<artifactNumToKeep>20</artifactNumToKeep>
 	</logRotator>
 	<keepDependencies>false</keepDependencies>
-	<properties/>
-	<scm class="hudson.plugins.git.GitSCM">
-		<configVersion>2</configVersion>
-		<userRemoteConfigs>
-			<hudson.plugins.git.UserRemoteConfig>
-				<name/>
-				<refspec/>
-				<url>${repositoryUrl}</url>
-			</hudson.plugins.git.UserRemoteConfig>
-		</userRemoteConfigs>
-		<branches>
-			<hudson.plugins.git.BranchSpec>
-				<name>**</name>
-			</hudson.plugins.git.BranchSpec>
-		</branches>
-		<disableSubmodules>false</disableSubmodules>
-		<recursiveSubmodules>false</recursiveSubmodules>
-		<doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
-		<authorOrCommitter>false</authorOrCommitter>
-		<clean>false</clean>
-		<wipeOutWorkspace>false</wipeOutWorkspace>
-		<pruneBranches>false</pruneBranches>
-		<remotePoll>false</remotePoll>
-		<ignoreNotifyCommit>false</ignoreNotifyCommit>
-		<useShallowClone>false</useShallowClone>
-		<buildChooser class="hudson.plugins.git.util.DefaultBuildChooser"/>
-		<gitTool>Default</gitTool>
-		<submoduleCfg class="list"/>
-		<relativeTargetDir/>
-		<reference/>
-		<excludedRegions/>
-		<excludedUsers/>
-		<gitConfigName/>
-		<gitConfigEmail/>
-		<skipTag>false</skipTag>
-		<includedRegions/>
-		<scmName/>
-	</scm>
-	<assignedNode>xcode</assignedNode>
+  	<properties/>
+  	<scm class="hudson.plugins.git.GitSCM">
+    		<configVersion>2</configVersion>
+    		<userRemoteConfigs>
+      			<hudson.plugins.git.UserRemoteConfig>
+        			<name></name>
+        			<refspec></refspec>
+        			<url>https://github.com/CloudBees-community/stockfish-osx-clickstart</url>
+      			</hudson.plugins.git.UserRemoteConfig>
+    		</userRemoteConfigs>
+    		<branches>
+      			<hudson.plugins.git.BranchSpec>
+        		<name>**</name>
+      			</hudson.plugins.git.BranchSpec>
+    		</branches>
+    		<disableSubmodules>false</disableSubmodules>
+    		<recursiveSubmodules>false</recursiveSubmodules>
+    		<doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
+    		<authorOrCommitter>false</authorOrCommitter>
+    		<clean>false</clean>
+    		<wipeOutWorkspace>false</wipeOutWorkspace>
+    		<pruneBranches>false</pruneBranches>
+    		<remotePoll>false</remotePoll>
+    		<ignoreNotifyCommit>false</ignoreNotifyCommit>
+    		<useShallowClone>false</useShallowClone>
+    		<buildChooser class="hudson.plugins.git.util.DefaultBuildChooser"/>
+    		<gitTool>Default</gitTool>
+    		<submoduleCfg class="list"/>
+    		<relativeTargetDir></relativeTargetDir>
+    		<reference></reference>
+    		<excludedRegions></excludedRegions>
+    		<excludedUsers></excludedUsers>
+    		<gitConfigName></gitConfigName>
+    		<gitConfigEmail></gitConfigEmail>
+    		<skipTag>false</skipTag>
+    		<includedRegions></includedRegions>
+    		<scmName></scmName>
+  	</scm>
+	<assignedNode>osx</assignedNode>
 	<canRoam>false</canRoam>
 	<disabled>false</disabled>
 	<blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
@@ -60,25 +61,32 @@ Stockfish iOS Xcode build: Requires a MacOS slave with Xcode installed. The outp
 	<concurrentBuild>false</concurrentBuild>
 	<builders>
 		<au.com.rayh.XCodeBuilder>
-			<cleanBeforeBuild>true</cleanBeforeBuild>
+			<cleanBeforeBuild>false</cleanBeforeBuild>
 			<cleanTestReports>false</cleanTestReports>
 			<configuration>Debug</configuration>
 			<target>Stockfish</target>
-			<sdk>iphonesimulator</sdk>
+			<sdk>iphonesimulator7.0</sdk>
 			<symRoot/>
 			<configurationBuildDir/>
 			<xcodeProjectPath/>
 			<xcodeProjectFile/>
-			<xcodebuildArguments>DSTROOT=. clean install</xcodebuildArguments>
+			<xcodebuildArguments/>
 			<xcodeSchema/>
 			<xcodeWorkspaceFile/>
 			<embeddedProfileFile/>
-			<cfBundleVersionValue>2.2.${BUILD_NUMBER}</cfBundleVersionValue>
-			<cfBundleShortVersionStringValue>2.2.${BUILD_NUMBER}</cfBundleShortVersionStringValue>
+			<cfBundleVersionValue/>
+			<cfBundleShortVersionStringValue/>
 			<buildIpa>false</buildIpa>
+			<generateArchive>false</generateArchive>
 			<unlockKeychain>false</unlockKeychain>
-			<keychainPath>${HOME}/Library/Keychains/login.keychain</keychainPath>
+			<keychainName>none (specify one below)</keychainName>
+			<keychainPath/>
 			<keychainPwd/>
+			<codeSigningIdentity/>
+			<allowFailingBuildResults>false</allowFailingBuildResults>
+			<ipaName/>
+			<ipaOutputDirectory/>
+			<provideApplicationVersion>false</provideApplicationVersion>
 		</au.com.rayh.XCodeBuilder>
 	</builders>
 	<publishers/>
